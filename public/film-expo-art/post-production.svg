@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151f3b"/><stop offset="1" stop-color="#07141f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#646ef2" stop-opacity=".62"/><stop offset="1" stop-color="#646ef2" stop-opacity="0"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f5a623"/><stop offset="1" stop-color="#f5a623" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#646ef2" stop-opacity=".52"/><stop offset="1" stop-color="#646ef2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".055"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<ellipse cx="710.4" cy="147.20000000000002" rx="297.6" ry="230.39999999999998" fill="url(#glow)"/>
+<rect width="960" height="640" fill="url(#grid)"/>
+<path d="M0 492.8L480 390.4L960 467.2V640H0Z" fill="#07111a"/>
+<path d="M0 524.8L480 448L960 518.4000000000001" stroke="#646ef2" stroke-opacity=".38" stroke-width="2"/>
+<rect x="145" y="145" width="675" height="298" rx="10" fill="#111a28" stroke="#8290a4" stroke-width="6"/><rect x="165" y="166" width="635" height="214" rx="4" fill="#091423"/><path d="M185 339L270 272L352 303L449 218L541 295L655 224L779 282V371H185Z" fill="#17415a"/><path d="M185 340L270 272L352 303L449 218L541 295L655 224L779 282" stroke="#54d3f0" stroke-width="5"/><rect x="168" y="388" width="630" height="10" rx="5" fill="#f5a623"/><rect x="168" y="405" width="460" height="9" rx="4" fill="#766cf6"/><rect x="168" y="422" width="555" height="8" rx="4" fill="#37a7c9"/><path d="M358 444V484M600 444V484" stroke="#77858d" stroke-width="10"/>
+<rect width="960" height="640" fill="url(#warm)" opacity=".075"/>
+<rect width="960" height="640" fill="url(#fade)"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020c14" stop-opacity=".08"/><stop offset=".61" stop-color="#020c14" stop-opacity="0"/><stop offset="1" stop-color="#020c14" stop-opacity=".76"/></linearGradient></defs>
+<g opacity=".77"><rect x="32" y="32" width="24" height="3" rx="1.5" fill="#f5a623"/><text x="68" y="39" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">POST-PRODUCTION AND VFX</text></g>
+
+</svg>

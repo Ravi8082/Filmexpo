@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132b3d"/><stop offset="1" stop-color="#07141f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#438fb1" stop-opacity=".62"/><stop offset="1" stop-color="#438fb1" stop-opacity="0"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f2ae53"/><stop offset="1" stop-color="#f2ae53" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#438fb1" stop-opacity=".52"/><stop offset="1" stop-color="#438fb1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".055"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<ellipse cx="710.4" cy="147.20000000000002" rx="297.6" ry="230.39999999999998" fill="url(#glow)"/>
+<rect width="960" height="640" fill="url(#grid)"/>
+<path d="M0 492.8L480 390.4L960 467.2V640H0Z" fill="#07111a"/>
+<path d="M0 524.8L480 448L960 518.4000000000001" stroke="#438fb1" stroke-opacity=".38" stroke-width="2"/>
+<path class="animated-beam beam-a" d="M155 55L600 385H188Z" fill="url(#beam)"/>
+<path class="animated-beam beam-b" d="M745 43L460 406H886Z" fill="url(#beam)" opacity=".65"/>
+<path d="M87 118V405M87 118H871M871 118V405" stroke="#405361" stroke-width="10"/>
+<path d="M109 139H850V372H109Z" fill="#081721" stroke="#6f7780" stroke-width="4"/>
+<path class="screen-glow" d="M446 157H805V342H446Z" fill="#f5a623" opacity=".62"/>
+<path d="M458 170H790V329H458Z" fill="#0a2030" opacity=".83"/>
+<text x="476" y="228" fill="#f5a623" font-family="Georgia,serif" font-size="43" font-weight="bold">FILM EXPO</text>
+<text x="491" y="274" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="bold" letter-spacing="12">INDIA</text>
+<path d="M534 291H682" stroke="#f5a623" stroke-width="3"/>
+<g fill="#f5a623" opacity=".84"><circle cx="203" cy="174" r="20"/><circle cx="245" cy="174" r="20"/><circle cx="287" cy="174" r="20"/></g>
+<path d="M125 372H835L930 484H32Z" fill="#121e26" stroke="#50606b" stroke-width="3"/>
+<path d="M242 383H709L776 448H179Z" fill="#172631"/>
+<g transform="translate(154 334) scale(0.88)">
+<path d="M-48 42H49L39-3H-37Z" fill="#111d27" stroke="#71818b" stroke-opacity=".6" stroke-width="3"/>
+<path d="M-26-4L-13-22H16L28-4" fill="#172734" stroke="#a9b7bd" stroke-opacity=".45" stroke-width="3"/>
+<circle cx="56" cy="18" r="28" fill="#0c1822" stroke="#596976" stroke-width="5"/>
+<circle cx="56" cy="18" r="17" fill="#142b3c" stroke="#f5a623" stroke-width="2"/>
+<circle cx="56" cy="18" r="8" fill="#2f9bc4" opacity=".7"/>
+<path d="M-10 44L-43 125M14 44L43 125M2 43L2 126" stroke="#65737c" stroke-width="5"/>
+<rect x="-27" y="53" width="55" height="5" rx="2" fill="#71818b"/>
+</g>
+<g class="moving-light"><circle cx="741" cy="218" r="76" fill="url(#glow)"/></g>
+<g transform="translate(64 446) scale(1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#071522"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(141 455) scale(1.1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#102436"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(190 464) scale(1.2)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#182a37"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(267 446) scale(1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#282a2c"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(316 455) scale(1.1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#071522"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(393 464) scale(1.2)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#102436"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(442 446) scale(1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#182a37"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(519 455) scale(1.1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#282a2c"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(568 464) scale(1.2)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#071522"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(645 446) scale(1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#102436"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(694 455) scale(1.1)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#182a37"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g><g transform="translate(771 464) scale(1.2)"><ellipse cx="0" cy="0" rx="19" ry="7" fill="#020912" opacity=".5"/><path d="M-10-47Q0-57 10-47L17 0H-17Z" fill="#282a2c"/><path d="M-7-49Q0-59 7-49L5-31H-5Z" fill="#b87a56"/><circle cy="-59" r="7" fill="#c28a63"/><path d="M-7-64Q0-72 7-64V-60H-7Z" fill="#12171d"/></g>
+<rect width="960" height="640" fill="url(#warm)" opacity=".075"/>
+<rect width="960" height="640" fill="url(#fade)"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020c14" stop-opacity=".08"/><stop offset=".61" stop-color="#020c14" stop-opacity="0"/><stop offset="1" stop-color="#020c14" stop-opacity=".76"/></linearGradient></defs>
+<g opacity=".77"><rect x="32" y="32" width="24" height="3" rx="1.5" fill="#f2ae53"/><text x="68" y="39" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">FILM EXPO INDIA · ILLUSTRATION 1</text></g>
+
+</svg>

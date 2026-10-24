@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183142"/><stop offset="1" stop-color="#07141f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#448fa8" stop-opacity=".62"/><stop offset="1" stop-color="#448fa8" stop-opacity="0"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f2ac54"/><stop offset="1" stop-color="#f2ac54" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#448fa8" stop-opacity=".52"/><stop offset="1" stop-color="#448fa8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".055"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<ellipse cx="710.4" cy="147.20000000000002" rx="297.6" ry="230.39999999999998" fill="url(#glow)"/>
+<rect width="960" height="640" fill="url(#grid)"/>
+<path d="M0 492.8L480 390.4L960 467.2V640H0Z" fill="#07111a"/>
+<path d="M0 524.8L480 448L960 518.4000000000001" stroke="#448fa8" stroke-opacity=".38" stroke-width="2"/>
+<path d="M80 377H876V490H80Z" fill="#111c24"/><path d="M128 377V207L490 106L849 207V377Z" fill="#182a35" stroke="#c39158" stroke-width="5"/><path d="M128 207H849M185 222V376M789 222V376" stroke="#d2a06a" stroke-opacity=".8" stroke-width="6"/><path d="M204 238H770V361H204Z" fill="#203c4a"/><path d="M240 258H343V354H240ZM385 258H487V354H385ZM532 258H636V354H532ZM675 258H740V354H675Z" fill="#e2a45e"/><path d="M251 273H332V350H251ZM395 273H477V350H395ZM544 273H625V350H544ZM684 273H731V350H684Z" fill="#0d2635"/><text x="276" y="191" fill="#ffe0a7" font-family="Georgia,serif" font-size="27" letter-spacing="2">CONVENTION CENTRE</text><path d="M180 412H800M251 443H735" stroke="#f2ac54" stroke-opacity=".5" stroke-width="3"/><circle cx="167" cy="396" r="5" fill="#f5a623"/><circle cx="821" cy="396" r="5" fill="#f5a623"/>
+<rect width="960" height="640" fill="url(#warm)" opacity=".075"/>
+<rect width="960" height="640" fill="url(#fade)"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020c14" stop-opacity=".08"/><stop offset=".61" stop-color="#020c14" stop-opacity="0"/><stop offset="1" stop-color="#020c14" stop-opacity=".76"/></linearGradient></defs>
+<g opacity=".77"><rect x="32" y="32" width="24" height="3" rx="1.5" fill="#f2ac54"/><text x="68" y="39" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">MUMBAI CONVENTION CENTRE</text></g>
+
+</svg>

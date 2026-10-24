@@ -1,0 +1,1802 @@
+{
+  "sourceUrl": "https://filmexpoindia.com/",
+  "gallerySourceUrl": "https://filmexpoindia.com/gallery-2/",
+  "capturedAt": "2026-10-22",
+  "officialVideoChannel": "https://www.youtube.com/@FilmExpoIndia",
+  "hero": {
+    "name": "Film Expo India 2026",
+    "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-01-1920x800-1-1.jpg",
+    "kind": "hero",
+    "image": "/filmexpo-live/hero/film-expo-2026.webp",
+    "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-01-1920x800-1-1.jpg",
+    "width": 1600,
+    "height": 667
+  },
+  "mentor": {
+    "name": "Vindu Dara Singh",
+    "role": "Indian Film Actor (Mentor)",
+    "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/Vindu-Dara-Singh.png",
+    "image": "/filmexpo-live/speakers/vindu-dara-singh.webp",
+    "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/Vindu-Dara-Singh.png",
+    "width": 1254,
+    "height": 1254,
+    "kind": "mentor"
+  },
+  "partners": [
+    {
+      "name": "Incredible India",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/Incredible-India-Logo-English-scaled.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-001.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/Incredible-India-Logo-English-scaled.png",
+      "width": 1600,
+      "height": 296
+    },
+    {
+      "name": "SEPC",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/SEPC.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-002.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/SEPC.jpeg",
+      "width": 905,
+      "height": 628
+    },
+    {
+      "name": "PB",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/PB-Logo-R.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-003.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/PB-Logo-R.png",
+      "width": 1600,
+      "height": 1365
+    },
+    {
+      "name": "DPIIT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/DPIIT.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-004.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/DPIIT.jpeg",
+      "width": 311,
+      "height": 156
+    },
+    {
+      "name": "Delhi Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/Logo-Delhi-Tourism.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-005.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/02/Logo-Delhi-Tourism.png",
+      "width": 400,
+      "height": 220
+    },
+    {
+      "name": "Maharashtra Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/MT-Final-Logo-R1-scaled.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-006.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/03/MT-Final-Logo-R1-scaled.png",
+      "width": 1600,
+      "height": 1323
+    },
+    {
+      "name": "MPT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/MPT-logo-color.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-007.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/MPT-logo-color.png",
+      "width": 551,
+      "height": 722
+    },
+    {
+      "name": "Telangana Film Development Corporation",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/TGFDC.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-008.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/TGFDC.jpg",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "name": "Bihar Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/bihar.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-009.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/bihar.png",
+      "width": 148,
+      "height": 209
+    },
+    {
+      "name": "Meghalaya Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/MeghTourism-1.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-010.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/MeghTourism-1.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "name": "Hello Meghalaya Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/HM-Logo-Layer-File-01-scaled.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-011.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/HM-Logo-Layer-File-01-scaled.png",
+      "width": 1600,
+      "height": 1131
+    },
+    {
+      "name": "IGNCA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/IGNCA.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-012.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/IGNCA.jpg",
+      "width": 554,
+      "height": 277
+    },
+    {
+      "name": "National School of Drama",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/image-12.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-013.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/02/image-12.jpg",
+      "width": 364,
+      "height": 252
+    },
+    {
+      "name": "Global Trade and Technology Partner",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/GTTCI-LOGO.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-014.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/GTTCI-LOGO.png",
+      "width": 1202,
+      "height": 537
+    },
+    {
+      "name": "Vishal Chain Jewellers",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/VISHAL-JEWELLERS-VCJ-LOGO-01.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-015.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/02/VISHAL-JEWELLERS-VCJ-LOGO-01.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "name": "Sony",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/sony-logo_.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-016.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/02/sony-logo_.jpg",
+      "width": 310,
+      "height": 169
+    },
+    {
+      "name": "Canon",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/Canon.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-017.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/Canon.jpg",
+      "width": 1146,
+      "height": 499
+    },
+    {
+      "name": "CINTAA / CAWT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/cintaa.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-018.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/02/cintaa.jpeg",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "name": "Marwah Studios",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/01/marwah-studios-logo-HR-copy-2048x867.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-019.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/01/marwah-studios-logo-HR-copy-2048x867.jpg",
+      "width": 1600,
+      "height": 677
+    },
+    {
+      "name": "AAFT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/01/aaft_logo_new-2048x523.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-020.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/01/aaft_logo_new-2048x523.png",
+      "width": 1600,
+      "height": 409
+    },
+    {
+      "name": "ICMEI",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/01/ICMEI-LOGO-WITH-NAME.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-021.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/01/ICMEI-LOGO-WITH-NAME.jpg",
+      "width": 1411,
+      "height": 407
+    },
+    {
+      "name": "Prasad",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Prasad.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-022.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/Prasad.jpeg",
+      "width": 596,
+      "height": 320
+    },
+    {
+      "name": "Stage",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/stage.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-023.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/stage.png",
+      "width": 1600,
+      "height": 569
+    },
+    {
+      "name": "Artisty",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/artisty.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-024.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/artisty.jpg",
+      "width": 523,
+      "height": 183
+    },
+    {
+      "name": "Oulac",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/oulac.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-025.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/03/oulac.jpeg",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "name": "Global",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/global-logo.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-026.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/global-logo.png",
+      "width": 1000,
+      "height": 471
+    },
+    {
+      "name": "Whistling Woods International",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/WWI-Logo-Black-1-scaled.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-027.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/WWI-Logo-Black-1-scaled.jpeg",
+      "width": 1600,
+      "height": 664
+    },
+    {
+      "name": "Bluesky",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/bluesky.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-028.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/03/bluesky.jpeg",
+      "width": 1280,
+      "height": 1175
+    },
+    {
+      "name": "C&C",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/cc.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-029.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/cc.jpg",
+      "width": 365,
+      "height": 240
+    },
+    {
+      "name": "Horseman FX",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Horseman-FX-Logo-Trademark-Registered1-scaled.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-030.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/Horseman-FX-Logo-Trademark-Registered1-scaled.png",
+      "width": 1600,
+      "height": 892
+    },
+    {
+      "name": "Roopesh Rai Productions",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/Roopesh-rai.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-031.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/02/Roopesh-rai.jpeg",
+      "width": 1280,
+      "height": 714
+    },
+    {
+      "name": "WIFPA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/WIFPA.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-032.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/WIFPA.jpeg",
+      "width": 713,
+      "height": 499
+    },
+    {
+      "name": "ECOA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo02_ECOA.jpg.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-033.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo02_ECOA.jpg.jpeg",
+      "width": 353,
+      "height": 320
+    },
+    {
+      "name": "Yuva Entertainments",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo02_Yuva-Entertainments-1.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-034.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo02_Yuva-Entertainments-1.jpg",
+      "width": 461,
+      "height": 320
+    },
+    {
+      "name": "Aap Media",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Aap-Media.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-035.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/Aap-Media.jpeg",
+      "width": 1080,
+      "height": 732
+    },
+    {
+      "name": "India News 24/7",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/indianews.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-036.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/indianews.jpeg",
+      "width": 832,
+      "height": 785
+    },
+    {
+      "name": "D-Wits",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_d-wits.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-037.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_d-wits.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "Citara",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_citara.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-038.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_citara.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "CPT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/CPT.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-039.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/CPT.jpg",
+      "width": 1212,
+      "height": 681
+    },
+    {
+      "name": "Ideabaaz",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Ideabaaz_Dark@4x-scaled.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-040.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/Ideabaaz_Dark@4x-scaled.png",
+      "width": 1600,
+      "height": 576
+    },
+    {
+      "name": "DJI",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/DJI.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-041.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/DJI.jpg",
+      "width": 197,
+      "height": 148
+    },
+    {
+      "name": "MPA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/MPA.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-042.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/MPA.jpg",
+      "width": 1012,
+      "height": 509
+    },
+    {
+      "name": "Pragatya Group of Companies",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_pragatya-group-of-companies.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-043.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_pragatya-group-of-companies.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "Khushi",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Khushi-2025-New-Logo-black.jpg.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-044.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/Khushi-2025-New-Logo-black.jpg.jpeg",
+      "width": 1600,
+      "height": 562
+    },
+    {
+      "name": "Nizzz Perfumes",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo03_Nizzz-Perfumes.jpg.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-045.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo03_Nizzz-Perfumes.jpg.jpeg",
+      "width": 460,
+      "height": 320
+    },
+    {
+      "name": "Reel-9Studio",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/logo-1.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-046.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/logo-1.png",
+      "width": 725,
+      "height": 719
+    },
+    {
+      "name": "Soham Rockstar",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/Logo04_Soham-Rockstar.jpg.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-047.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/05/Logo04_Soham-Rockstar.jpg.jpeg",
+      "width": 460,
+      "height": 320
+    },
+    {
+      "name": "Dara Studio",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_dara-studio.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-048.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_dara-studio.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "Filmibeat",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Filmi-Logo-1.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-049.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/Filmi-Logo-1.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "name": "Oneindia",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Oneindia-Logo.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-050.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/06/Oneindia-Logo.png",
+      "width": 1600,
+      "height": 463
+    },
+    {
+      "name": "FTPA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/FTPA-logo.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-051.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/FTPA-logo.jpeg",
+      "width": 313,
+      "height": 323
+    },
+    {
+      "name": "Graphiti",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/Graphiti_Logo_Hi-Rez.jpg-scaled.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-052.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/Graphiti_Logo_Hi-Rez.jpg-scaled.jpeg",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "name": "Creative First",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_creative-first-www.creative-first.film_.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-053.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_creative-first-www.creative-first.film_.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "RSFI",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/RSFI_LOGO.jpg.jpeg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-054.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/07/RSFI_LOGO.jpg.jpeg",
+      "width": 1600,
+      "height": 677
+    },
+    {
+      "name": "The Travel Professionals",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_the-travel-professionals-serving-you-with-excellence.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-055.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_the-travel-professionals-serving-you-with-excellence.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "Creative Channel Media",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_creative-channel-media.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-056.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_creative-channel-media.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "Sanskar",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_sanskar.jpg",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-057.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_sanskar.jpg",
+      "width": 557,
+      "height": 354
+    },
+    {
+      "name": "Incepto Studio",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/incepto-studio-1380-x-944-px.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-058.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/incepto-studio-1380-x-944-px.png",
+      "width": 1380,
+      "height": 944
+    },
+    {
+      "name": "The School for Actors",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/the-school-for-actor.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-059.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/08/the-school-for-actor.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "name": "Organized by Exhobuzz",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/exhobuzz-kuchbhee-and-vindu-dara-singh-logo-04.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-060.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/03/exhobuzz-kuchbhee-and-vindu-dara-singh-logo-04.png",
+      "width": 1523,
+      "height": 566
+    },
+    {
+      "name": "Co-organized by ITPO",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/ITPO_LOGO_C_18920-scaled.png",
+      "kind": "partner",
+      "image": "/filmexpo-live/partners/partner-061.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/03/ITPO_LOGO_C_18920-scaled.png",
+      "width": 1600,
+      "height": 591
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Film Expo India 2026 — Moment 001",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-001.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/original_photo_clear_blur_fixed-2.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 002",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-002.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-12-at-12.31.26.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 003",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-003.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider21.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 004",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-004.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-01-1920x800-1-1.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 005",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-005.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.26.40.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 006",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-006.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/da329123-4325-4942-96b5-2082cd8947c8.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 007",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-007.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.57.03.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 008",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-008.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.11.41.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 009",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-009.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.12.55.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 010",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-010.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.13.10.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 011",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-011.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.14.04.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 012",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-012.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.57.44.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 013",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-013.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/0be1d636-a15d-4b99-9377-d51ff8937290.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 014",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-014.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-18.17.48.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 015",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-015.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-5.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 016",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-016.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.48.32-PM.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 017",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-017.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest1.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 018",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-018.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.48.33-PM.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 019",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-019.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/2W4A0462.JPG-scaled.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 020",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-020.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.29.38.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 021",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-021.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.29.40.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 022",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-022.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/150A6933-scaled.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 023",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-023.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.29.40-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 024",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-024.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/Vindu-Dara-Singh.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 025",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-025.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-18.18.49-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 026",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-026.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/Gautam-Shah.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 027",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-027.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.49.19.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 028",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-028.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/guests1.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 029",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-029.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/150A9272.JPG-scaled.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 030",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-030.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-18.18.53.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 031",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-031.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-15.47.50.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 032",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-032.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-6.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 033",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-033.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-18.18.51.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 034",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-034.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider6.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 035",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-035.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider24.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 036",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-036.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-4.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 037",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-037.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_16_52-PM.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 038",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-038.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.46.17.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 039",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-039.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider18.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 040",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-040.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider5.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 041",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-041.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-15.41.27.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 042",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-042.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-3.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 043",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-043.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider16.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 044",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-044.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.36.23-PM.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 045",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-045.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-12.59.19-PM.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 046",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-046.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_28_32-PM.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 047",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-047.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.52.43-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 048",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-048.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider20.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 049",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-049.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-16-1080x1350-1.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 050",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-050.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.52.43.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 051",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-051.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-15-1080x1350-1.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 052",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-052.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.45.56.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 053",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-053.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.47.49.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 054",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-054.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.46.10-PM-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 055",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-055.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider13.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 056",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-056.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider23.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 057",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-057.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.35.46-PM.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 058",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-058.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-12-at-10.46.36-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 059",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-059.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider17.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 060",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-060.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-17.21.55.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 061",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-061.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/b9aa0829-87f4-4780-93d6-9bc6a77471d4.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 062",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-062.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-15.47.54.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 063",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-063.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-15.37.49.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 064",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-064.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.45.56-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 065",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-065.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/a1c28fa1-aae4-4124-bef3-d71e6aeb2677.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 066",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-066.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider22.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 067",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-067.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider19.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 068",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-068.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.46.10-PM.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 069",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-069.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider15.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 070",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-070.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.46.46.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 071",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-071.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-17.21.53.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 072",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-072.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider12.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 073",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-073.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-15.47.48.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 074",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-074.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.47.14.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 075",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-075.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_24_24-PM.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 076",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-076.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/download.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 077",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-077.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_20_54-PM.png"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 078",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-078.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.48.10.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 079",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-079.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.48.29.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 080",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-080.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.48.53.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 081",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-081.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.16.16.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 082",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-082.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.19.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 083",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-083.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.19-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 084",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-084.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.20.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 085",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-085.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.20-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 086",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-086.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.20-2.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 087",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-087.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/199A5426-scaled.jpg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 088",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-088.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.45.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 089",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-089.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.18.08.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 090",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-090.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.47.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 091",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-091.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.18.09.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 092",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-092.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.18.09-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 093",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-093.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.19.50.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 094",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-094.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.20.03.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 095",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-095.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.21.21.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 096",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-096.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.21.40.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 097",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-097.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.22.01.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 098",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-098.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.31.26.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 099",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-099.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.31.48.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 100",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-100.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.32.39.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 101",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-101.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.32.39-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 102",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-102.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.33.21.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 103",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-103.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.34.33.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 104",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-104.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.40.37.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 105",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-105.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.41.09.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 106",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-106.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.10.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 107",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-107.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.29.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 108",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-108.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.39.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 109",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-109.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.59.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 110",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-110.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.53.29.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 111",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-111.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.43.18.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 112",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-112.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.44.26.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 113",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-113.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.44.52.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 114",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-114.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.45.07.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 115",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-115.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.45.37.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 116",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-116.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.52.14.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 117",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-117.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.52.42.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 118",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-118.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.52.43.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 119",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-119.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.53.28.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 120",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-120.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.06.56.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 121",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-121.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.08.01.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 122",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-122.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.10.42.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 123",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-123.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.14.03-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 124",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-124.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.15.04.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 125",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-125.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.53.52.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 126",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-126.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.52.25.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 127",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-127.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.52.24-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 128",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-128.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.52.24.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 129",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-129.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.48.41.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 130",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-130.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.42.34.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 131",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-131.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.42.17.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 132",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-132.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.42.16.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 133",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-133.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.20-1.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 134",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-134.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.20.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 135",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-135.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.19-5.jpeg"
+    },
+    {
+      "title": "Film Expo India 2026 — Moment 136",
+      "category": "Highlights",
+      "era": "present",
+      "date": "2026",
+      "description": "A moment from the Film Expo India 2026 official photo gallery.",
+      "image": "/filmexpo-live/gallery/moment-136.webp",
+      "sourceUrl": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.19-4.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172344"/><stop offset="1" stop-color="#07141f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#8671f2" stop-opacity=".62"/><stop offset="1" stop-color="#8671f2" stop-opacity="0"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#38c5dc"/><stop offset="1" stop-color="#38c5dc" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8671f2" stop-opacity=".52"/><stop offset="1" stop-color="#8671f2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".055"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<ellipse cx="710.4" cy="147.20000000000002" rx="297.6" ry="230.39999999999998" fill="url(#glow)"/>
+<rect width="960" height="640" fill="url(#grid)"/>
+<path d="M0 492.8L480 390.4L960 467.2V640H0Z" fill="#07111a"/>
+<path d="M0 524.8L480 448L960 518.4000000000001" stroke="#8671f2" stroke-opacity=".38" stroke-width="2"/>
+<path d="M204 225Q220 179 281 179H680Q741 179 757 225L796 357Q810 410 759 415Q734 417 709 385L683 355H279L251 385Q227 417 202 415Q151 410 166 357Z" fill="#20294a" stroke="#9e8df7" stroke-width="6"/><path d="M263 230V312M222 271H304" stroke="#edf3ff" stroke-width="17" stroke-linecap="round"/><circle cx="640" cy="250" r="16" fill="#42e1d6"/><circle cx="698" cy="286" r="16" fill="#f370bd"/><circle cx="640" cy="319" r="16" fill="#f5a623"/><circle cx="582" cy="286" r="16" fill="#60a8ff"/><path d="M417 219Q470 172 523 219V353Q470 393 417 353Z" fill="#1b3550" stroke="#54d3f0" stroke-width="4"/><path d="M439 319L468 264L493 300L509 277" stroke="#f5a623" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="960" height="640" fill="url(#warm)" opacity=".075"/>
+<rect width="960" height="640" fill="url(#fade)"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020c14" stop-opacity=".08"/><stop offset=".61" stop-color="#020c14" stop-opacity="0"/><stop offset="1" stop-color="#020c14" stop-opacity=".76"/></linearGradient></defs>
+<g opacity=".77"><rect x="32" y="32" width="24" height="3" rx="1.5" fill="#38c5dc"/><text x="68" y="39" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">ANIMATION AND GAMING</text></g>
+
+</svg>

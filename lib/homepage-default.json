@@ -1,0 +1,1965 @@
+{
+  "brand": {
+    "name": "Film Expo India",
+    "tagline": "FROM SCRIPTING TO RELEASING",
+    "logo": "/film-expo-logo.png"
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Exhibitors",
+        "href": "/exhibitors"
+      },
+      {
+        "label": "Conferences",
+        "href": "/conferences"
+      },
+      {
+        "label": "Gallery",
+        "href": "/gallery"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "registerLabel": "Register Now"
+  },
+  "hero": {
+    "eyebrow": "FROM SCRIPTING TO RELEASING",
+    "title": "Where Cinema",
+    "highlight": "Meets Opportunity",
+    "description": "A global platform for filmmakers, exhibitors, technology providers, content creators, investors and the entire entertainment industry.",
+    "dates": "27–29 August 2027",
+    "dateLabel": "Event Dates",
+    "venue": "Bharat Mandapam",
+    "location": "New Delhi, India",
+    "primaryCta": "Register as Visitor",
+    "secondaryCta": "Become an Exhibitor",
+    "trailerLabel": "Watch Event Trailer",
+    "scrollLabel": "Scroll to explore",
+    "videoStatus": "FILM EXPO INDIA / 2027",
+    "registration": {
+      "eyebrow": "FILM EXPO INDIA / 2027",
+      "title": "Your story",
+      "highlight": "starts here.",
+      "description": "Registration opens soon. Leave your email and we’ll be the first to let you know.",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "you@email.com",
+      "submitLabel": "Keep me posted"
+    },
+    "image": "/film-expo-art/hero-expo.svg",
+    "video": ""
+  },
+  "homeAbout": {
+    "eyebrow": "ABOUT US",
+    "title": "Film Expo India",
+    "paragraph": "Film Expo India brings filmmakers, production houses, technology providers, distributors, exhibitors and creative professionals together to discover opportunities and showcase innovation across the global entertainment industry.",
+    "image": "/film-expo-art/production.svg",
+    "buttonLabel": "Learn More About Us",
+    "buttonHref": "/about",
+    "profile": {
+      "name": "Vindu Dara Singh",
+      "role": "Indian Film Actor (Mentor)",
+      "image": "/film-expo-art/speaker-1.svg",
+      "quote": "A place for the people and ideas shaping the future of cinema."
+    }
+  },
+  "stats": {
+    "ariaLabel": "Event statistics",
+    "eyebrow": "OUR IMPACT",
+    "title": "A Platform Creating Real Opportunities",
+    "description": "Numbers that show how Film Expo India connects the film industry.",
+    "items": [
+      {
+        "value": "25,000+",
+        "label": "Visitors",
+        "icon": "visitors"
+      },
+      {
+        "value": "300+",
+        "label": "Exhibitors",
+        "icon": "exhibitors"
+      },
+      {
+        "value": "500+",
+        "label": "Brands",
+        "icon": "brands"
+      },
+      {
+        "value": "50+",
+        "label": "Industry Partners",
+        "icon": "partners"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "WHAT HAPPENS HERE",
+    "title": "Five Ways To Be Part Of It",
+    "description": "Exhibit, explore, screen, sponsor or speak — every floor is built around one thing: getting your work in front of the people who buy it.",
+    "items": [
+      {
+        "title": "Exhibit",
+        "text": "Showcase your brand to a targeted audience.",
+        "image": "/film-expo-art/exhibit.svg",
+        "id": "exhibit"
+      },
+      {
+        "title": "Visit",
+        "text": "Explore innovations, network and grow.",
+        "image": "/film-expo-art/visit.svg",
+        "id": "visit"
+      },
+      {
+        "title": "Film Submission",
+        "text": "Submit your film and get industry exposure.",
+        "image": "/film-expo-art/film-submission.svg",
+        "id": "film-submission"
+      },
+      {
+        "title": "Sponsorship",
+        "text": "Partner with India's leading film industry platform.",
+        "image": "/film-expo-art/sponsorship.svg",
+        "id": "sponsorship"
+      },
+      {
+        "title": "Conference",
+        "text": "Learn from industry experts and thought leaders.",
+        "image": "/film-expo-art/conference.svg",
+        "id": "conference"
+      }
+    ]
+  },
+  "event": {
+    "eyebrow": "UPCOMING EDITION",
+    "title": "Where We Go Next",
+    "description": "One spectacular edition in 2027. Join the entertainment industry at Bharat Mandapam, New Delhi.",
+    "buttonLabel": "View All Events",
+    "buttonHref": "/conferences",
+    "items": [
+      {
+        "season": "FEI 2.0",
+        "badge": "NEXT UP",
+        "year": "2027",
+        "date": "27–29 August 2027",
+        "startDate": "2027-08-27",
+        "endDate": "2027-08-29",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "confirmationNote": "",
+        "venue": "Bharat Mandapam",
+        "hall": "HALLS 2–4",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "pin": "110002",
+        "image": "/film-expo-art/exhibit.svg",
+        "buttonLabel": "Register Interest",
+        "href": ""
+      }
+    ],
+    "dates": "27–29 August 2027",
+    "dateLabel": "Event Dates",
+    "venue": "Bharat Mandapam",
+    "location": "New Delhi, India",
+    "visitors": "25,000+",
+    "visitorsLabel": "Expected Visitors",
+    "exhibitors": "300+",
+    "exhibitorsLabel": "Exhibitors & Brands",
+    "image": "/film-expo-art/venue.svg"
+  },
+  "highlights": {
+    "eyebrow": "KEY HIGHLIGHTS",
+    "title": "Experience the Future of Entertainment",
+    "image": "/film-expo-art/highlights.svg",
+    "items": [
+      {
+        "icon": "▦",
+        "title": "Latest Technology",
+        "text": "Cinematography, VFX, Post Production & more"
+      },
+      {
+        "icon": "♟",
+        "title": "Industry Networking",
+        "text": "Meet global industry professionals"
+      },
+      {
+        "icon": "◒",
+        "title": "Conferences & Panels",
+        "text": "Learn from industry experts"
+      },
+      {
+        "icon": "▤",
+        "title": "Business Opportunities",
+        "text": "Collaborate, Invest and Grow"
+      }
+    ]
+  },
+  "exhibitReasons": {
+    "eyebrow": "WHY EXHIBIT",
+    "title": "Reasons to Exhibit",
+    "description": "Meet the people, partners and audiences that can help your business grow.",
+    "buttonLabel": "Become an Exhibitor",
+    "buttonHref": "",
+    "image": "/film-expo-art/exhibit.svg",
+    "video": "",
+    "benefitsEyebrow": "YOUR NEXT OPPORTUNITY",
+    "benefitsTitle": "Make your presence count.",
+    "ecosystem": {
+      "eyebrow": "COMPLETE ENTERTAINMENT ECOSYSTEM",
+      "title": "Where the entire industry meets opportunity",
+      "description": "Cinema, content, production, distribution, equipment, technology, AI, OTT and emerging entertainment solutions — all connected in one place.",
+      "items": [
+        {
+          "icon": "✦",
+          "title": "Ideas into Impact",
+          "text": "A space where ideas spark conversations, conversations build connections, and connections create opportunities."
+        },
+        {
+          "icon": "◎",
+          "title": "Connect. Collaborate. Grow.",
+          "text": "Meet creators, exhibitors, buyers, investors, brands, technology leaders and industry professionals."
+        },
+        {
+          "icon": "↗",
+          "title": "National Reach. Global Opportunities.",
+          "text": "Connect India's creative, commercial and technology ecosystems with opportunities across borders."
+        }
+      ]
+    },
+    "edition2026": {
+      "eyebrow": "THE 2026 EDITION",
+      "title": "Business, innovation, technology, cinema and culture.",
+      "description": "Film Expo India brought the entertainment ecosystem together for five dynamic days at Bharat Mandapam, New Delhi.",
+      "impactTitle": "Business & Industry Impact",
+      "metrics": [
+        {
+          "value": "35,000+",
+          "label": "Visitors"
+        },
+        {
+          "value": "200+",
+          "label": "Exhibitors"
+        },
+        {
+          "value": "17,000 sq. m.",
+          "label": "Exhibition space"
+        },
+        {
+          "value": "₹243 Cr",
+          "label": "Business impact generated"
+        },
+        {
+          "value": "62",
+          "label": "Influential speakers"
+        },
+        {
+          "value": "20+",
+          "label": "Government bodies and associations"
+        }
+      ],
+      "experienceTitle": "Creativity, Culture & Entertainment",
+      "experienceDescription": "Beyond business, the edition celebrated creative expression, emerging technology and culture with screenings, fashion, live performances and theatre.",
+      "experienceItems": [
+        {
+          "value": "100+",
+          "label": "Celebrities"
+        },
+        {
+          "value": "35+",
+          "label": "Film screenings"
+        },
+        {
+          "value": "25+",
+          "label": "AI films and hackathon entries"
+        }
+      ],
+      "journeyTitle": "The Journey Continues",
+      "journeyDescription": "Film Expo India is expanding its footprint with one spectacular edition in 2027.",
+      "journeyEdition": "FEI 2.0 — Delhi",
+      "journeyDate": "27–29 August 2027",
+      "journeyVenue": "Hall 2–4, Bharat Mandapam",
+      "journeyButtonLabel": "Explore upcoming events"
+    },
+    "guestsOfHonour": {
+      "eyebrow": "FILM EXPO INDIA",
+      "title": "Guests of Honour for Mumbai 2027",
+      "description": "Meet the guests joining Film Expo India in Mumbai.",
+      "items": [
+        {
+          "name": "Savitri Thakur Ji",
+          "role": "Guest of Honour",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Savitri-Thakur-Ji.jpg"
+        },
+        {
+          "name": "Sandeep Marwah",
+          "role": "Guest of Honour",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Sandeep-Marwah.jpeg"
+        },
+        {
+          "name": "Kapil Mishra",
+          "role": "Guest of Honour",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Kapil-Mishra.jpeg"
+        },
+        {
+          "name": "K. L. Ganju",
+          "role": "Guest of Honour",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/K.L-Ganju.jpeg"
+        }
+      ]
+    },
+    "internationalApproach": {
+      "eyebrow": "GLOBAL DELEGATIONS",
+      "title": "International Approach",
+      "description": "Welcoming international representatives and creative communities to Film Expo India.",
+      "items": [
+        {
+          "country": "Greece",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Greece.jpeg"
+        },
+        {
+          "country": "Luxembourg",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Luxembourg.jpeg"
+        },
+        {
+          "country": "Brazil",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Brazil.jpeg"
+        },
+        {
+          "country": "Spain",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/embassy-of-spain.jpeg"
+        },
+        {
+          "country": "Armenia",
+          "image": "https://filmexpoindia.com/wp-content/uploads/2026/01/Armenia.jpeg"
+        }
+      ]
+    },
+    "enquiry": {
+      "eyebrow": "EXHIBITOR ENQUIRY",
+      "title": "Let’s build your presence at Film Expo India.",
+      "description": "Tell us a little about your organization and our team will follow up about exhibiting opportunities.",
+      "nameLabel": "Full name",
+      "emailLabel": "Work email",
+      "phoneLabel": "Phone number",
+      "companyLabel": "Company or organization",
+      "interestLabel": "I am interested in",
+      "messageLabel": "Tell us about your goals",
+      "submitLabel": "Send exhibitor enquiry",
+      "successMessage": "Thank you. Your exhibitor enquiry has been received.",
+      "interests": [
+        "Exhibiting",
+        "Sponsorship",
+        "Partnership",
+        "Other"
+      ]
+    },
+    "items": [
+      {
+        "icon": "◎",
+        "title": "Meet the Right Audience",
+        "text": "Connect with buyers, producers and decision makers."
+      },
+      {
+        "icon": "✦",
+        "title": "Showcase Innovations",
+        "text": "Launch your latest products and services."
+      },
+      {
+        "icon": "◇",
+        "title": "Build Partnerships",
+        "text": "Collaborate with global industry professionals."
+      },
+      {
+        "icon": "↗",
+        "title": "Expand Your Reach",
+        "text": "Grow visibility across domestic and international markets."
+      }
+    ]
+  },
+  "categories": {
+    "eyebrow": "KEY HIGHLIGHTS",
+    "title": "Explore Every Aspect of the Film Industry",
+    "buttonLabel": "View All Categories",
+    "buttonHref": "/exhibitors",
+    "items": [
+      {
+        "title": "Film Production",
+        "text": "Equipment & Technology",
+        "image": "/film-expo-art/production.svg"
+      },
+      {
+        "title": "Post Production",
+        "text": "& VFX",
+        "image": "/film-expo-art/post-production.svg"
+      },
+      {
+        "title": "Content & IP",
+        "text": "Distribution",
+        "image": "/film-expo-art/content-ip.svg"
+      },
+      {
+        "title": "Streaming & Digital",
+        "text": "Platforms",
+        "image": "/film-expo-art/streaming.svg"
+      },
+      {
+        "title": "Animation, Gaming",
+        "text": "& New Media",
+        "image": "/film-expo-art/animation-gaming.svg"
+      },
+      {
+        "title": "Film Tourism",
+        "text": "& Locations",
+        "image": "/film-expo-art/film-tourism.svg"
+      }
+    ]
+  },
+  "speakers": {
+    "eyebrow": "EVENT CATEGORIES",
+    "title": "Industry Leaders, Visionaries & Expertise",
+    "buttonLabel": "View All Speakers",
+    "buttonHref": "/speakers",
+    "items": [
+      {
+        "name": "Featured Speaker",
+        "role": "Director",
+        "organization": "Film Expo India",
+        "image": "/film-expo-art/speaker-1.svg",
+        "slug": "director",
+        "bio": "An illustrative profile. Add the speaker's background, notable work and why they are joining Film Expo India. This text is editable from the admin panel.",
+        "session": {
+          "title": "Crafting the Feature Debut",
+          "time": "Session details to be confirmed",
+          "venue": "Main Stage"
+        },
+        "socials": [
+          { "label": "LinkedIn", "url": "https://linkedin.com" },
+          { "label": "X", "url": "https://x.com" },
+          { "label": "Instagram", "url": "https://instagram.com" }
+        ]
+      },
+      {
+        "name": "Featured Speaker",
+        "role": "Producer",
+        "organization": "Film Expo India",
+        "image": "/film-expo-art/speaker-2.svg",
+        "slug": "producer",
+        "bio": "An illustrative profile. Add the speaker's background, notable work and why they are joining Film Expo India. This text is editable from the admin panel.",
+        "session": {
+          "title": "Financing & Producing Independent Cinema",
+          "time": "Session details to be confirmed",
+          "venue": "Summit Hall"
+        },
+        "socials": [
+          { "label": "LinkedIn", "url": "https://linkedin.com" },
+          { "label": "X", "url": "https://x.com" }
+        ]
+      },
+      {
+        "name": "Featured Speaker",
+        "role": "Cinematographer",
+        "organization": "Film Expo India",
+        "image": "/film-expo-art/speaker-3.svg",
+        "slug": "cinematographer",
+        "bio": "An illustrative profile. Add the speaker's background, notable work and why they are joining Film Expo India. This text is editable from the admin panel.",
+        "session": {
+          "title": "The Camera As Storyteller",
+          "time": "Session details to be confirmed",
+          "venue": "Screening Room"
+        },
+        "socials": [
+          { "label": "LinkedIn", "url": "https://linkedin.com" },
+          { "label": "Instagram", "url": "https://instagram.com" }
+        ]
+      },
+      {
+        "name": "Featured Speaker",
+        "role": "Technology Leader",
+        "organization": "Film Expo India",
+        "image": "/film-expo-art/speaker-4.svg",
+        "slug": "technology-leader",
+        "bio": "An illustrative profile. Add the speaker's background, notable work and why they are joining Film Expo India. This text is editable from the admin panel.",
+        "session": {
+          "title": "Virtual Production & AI On Set",
+          "time": "Session details to be confirmed",
+          "venue": "Innovation Stage"
+        },
+        "socials": [
+          { "label": "LinkedIn", "url": "https://linkedin.com" },
+          { "label": "X", "url": "https://x.com" }
+        ]
+      },
+      {
+        "name": "Featured Speaker",
+        "role": "Creative Director",
+        "organization": "Film Expo India",
+        "image": "/film-expo-art/speaker-5.svg",
+        "slug": "creative-director",
+        "bio": "An illustrative profile. Add the speaker's background, notable work and why they are joining Film Expo India. This text is editable from the admin panel.",
+        "session": {
+          "title": "Building Worlds Audiences Inhabit",
+          "time": "Session details to be confirmed",
+          "venue": "Main Stage"
+        },
+        "socials": [
+          { "label": "LinkedIn", "url": "https://linkedin.com" },
+          { "label": "Instagram", "url": "https://instagram.com" }
+        ]
+      }
+    ]
+  },
+  "speakersPage": {
+    "eyebrow": "THE VOICES OF FILM EXPO INDIA",
+    "title": "Speakers",
+    "highlight": "& Curators",
+    "description": "Filmmakers, producers, technologists and creative leaders shaping the programme. Meet the people behind the sessions, keynotes and conversations.",
+    "listEyebrow": "FEATURED SPEAKERS",
+    "listTitle": "Who you will hear from",
+    "sessionLabel": "Session",
+    "timeLabel": "Time",
+    "venueLabel": "Venue",
+    "bioLabel": "About",
+    "socialsLabel": "Connect",
+    "profileCtaLabel": "View profile",
+    "disclaimer": "Speaker line-up, sessions and social links are illustrative until confirmed by the organiser."
+  },
+  "testimonials": {
+    "eyebrow": "GUEST REVIEWS",
+    "title": "What Our Guests Say About Us",
+    "description": "Filmmakers, exhibitors and partners share their Film Expo India experience.",
+    "items": [
+      {
+        "name": "Guest Name",
+        "role": "Film Director",
+        "company": "Sample Studios",
+        "quote": "A remarkable platform that connected us with the right people in the film industry. Superbly organised.",
+        "rating": 5,
+        "photo": "/film-expo-art/speaker-1.svg",
+        "video": "",
+        "poster": "/film-expo-art/hero-expo.svg"
+      },
+      {
+        "name": "Guest Name",
+        "role": "Producer",
+        "company": "Sample Productions",
+        "quote": "Film Expo India gave our brand real visibility and meaningful business conversations.",
+        "rating": 5,
+        "photo": "/film-expo-art/speaker-2.svg",
+        "video": "",
+        "poster": "/film-expo-art/hero-expo.svg"
+      },
+      {
+        "name": "Guest Name",
+        "role": "Cinematographer",
+        "company": "Sample Pictures",
+        "quote": "The conferences and live demos were inspiring. I discovered new technology and new collaborators.",
+        "rating": 5,
+        "photo": "/film-expo-art/speaker-3.svg",
+        "video": "",
+        "poster": "/film-expo-art/hero-expo.svg"
+      }
+    ]
+  },
+  "pastEvents": {
+    "eyebrow": "PAST EVENTS",
+    "title": "Relive Our Previous Editions",
+    "description": "Watch highlights from the Film Expo events we have already hosted.",
+    "items": [
+      {
+        "title": "Inaugural Ceremony",
+        "date": "Aug 2025",
+        "location": "New Delhi",
+        "video": "",
+        "poster": "/film-expo-art/gallery-1.svg"
+      },
+      {
+        "title": "Awards Night",
+        "date": "Aug 2025",
+        "location": "New Delhi",
+        "video": "",
+        "poster": "/film-expo-art/gallery-2.svg"
+      },
+      {
+        "title": "Industry Conference",
+        "date": "Mar 2025",
+        "location": "Mumbai",
+        "video": "",
+        "poster": "/film-expo-art/gallery-3.svg"
+      },
+      {
+        "title": "Exhibition Floor Tour",
+        "date": "Mar 2025",
+        "location": "Mumbai",
+        "video": "",
+        "poster": "/film-expo-art/gallery-4.svg"
+      },
+      {
+        "title": "Networking Evening",
+        "date": "Nov 2024",
+        "location": "Hyderabad",
+        "video": "",
+        "poster": "/film-expo-art/gallery-5.svg"
+      },
+      {
+        "title": "Masterclass Highlights",
+        "date": "Nov 2024",
+        "location": "Hyderabad",
+        "video": "",
+        "poster": "/film-expo-art/gallery-1.svg"
+      }
+    ]
+  },
+  "pathways": {
+    "eyebrow": "START HERE",
+    "title": "Choose Your Path",
+    "description": "Whether you want to attend, exhibit or collaborate, Film Expo India has a place for you.",
+    "countdownTarget": "2027-08-27T10:00:00+05:30",
+    "countdownLabel": "Expo begins in",
+    "infoItems": [
+      {
+        "label": "Dates",
+        "value": "27–29 August 2027"
+      },
+      {
+        "label": "Venue",
+        "value": "Bharat Mandapam, New Delhi"
+      },
+      {
+        "label": "Timings",
+        "value": "10:00 AM – 7:00 PM"
+      }
+    ],
+    "cards": [
+      {
+        "role": "Visitor",
+        "title": "Attend the Expo",
+        "text": "Explore exhibits, attend conferences and meet the film industry.",
+        "points": [
+          "Free & paid passes",
+          "Conference schedule",
+          "Networking access"
+        ],
+        "buttonLabel": "Register as Visitor",
+        "href": "",
+        "icon": "ticket"
+      },
+      {
+        "role": "Exhibitor",
+        "title": "Book a Booth",
+        "text": "Showcase your products and services to buyers, studios and creators.",
+        "points": [
+          "Premium booth space",
+          "B2B meetings",
+          "Qualified leads"
+        ],
+        "buttonLabel": "Join as Exhibitor",
+        "href": "/exhibitors",
+        "icon": "booth"
+      },
+      {
+        "role": "Partner",
+        "title": "Become a Partner",
+        "text": "Associate your brand with India's premier film industry exhibition.",
+        "points": [
+          "Sponsorship packages",
+          "Brand visibility",
+          "Media coverage"
+        ],
+        "buttonLabel": "Become a Partner",
+        "href": "",
+        "icon": "handshake"
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "OUR PARTNERS",
+    "title": "Our Partners",
+    "description": "Film Expo India grows through collaboration. Here is who is joining us now and who can partner with us in the future.",
+    "currentTitle": "Joining Us Now",
+    "current": [
+      "Film production houses",
+      "Camera & equipment brands",
+      "Post-production & VFX studios",
+      "Media & OTT platforms",
+      "Film schools & training institutes"
+    ],
+    "futureTitle": "Future Collaborations",
+    "future": [
+      "State & national film bodies",
+      "International film festivals",
+      "Tourism & film-location boards",
+      "Technology & AI innovators",
+      "Brands & sponsors"
+    ],
+    "benefitsEyebrow": "WHY PARTNER WITH US",
+    "benefitsTitle": "Partner Benefits",
+    "benefits": [
+      {
+        "title": "Industry Exposure",
+        "text": "Put your brand in front of filmmakers, producers, studios and buyers from across India and abroad."
+      },
+      {
+        "title": "Qualified Leads",
+        "text": "Meet decision-makers face to face through exhibition booths, B2B meetings and conferences."
+      },
+      {
+        "title": "Networking",
+        "text": "Access curated networking sessions, VIP lounges and partner-only evenings."
+      },
+      {
+        "title": "Media Coverage",
+        "text": "Get featured across our press, social media, newsletters and on-ground branding."
+      }
+    ],
+    "packagesEyebrow": "SPONSORSHIP",
+    "packagesTitle": "Partnership Packages",
+    "packagesNote": "Contact us for pricing and custom packages.",
+    "packages": [
+      {
+        "name": "Title Partner",
+        "price": "Contact for details",
+        "featured": true,
+        "perks": [
+          "Title branding on all material",
+          "Premium exhibition space",
+          "Keynote & stage presence",
+          "Logo on website, press and social",
+          "VIP passes"
+        ]
+      },
+      {
+        "name": "Gold Partner",
+        "price": "Contact for details",
+        "featured": false,
+        "perks": [
+          "Large exhibition booth",
+          "Session or panel slot",
+          "Logo on website and stage",
+          "Partner passes"
+        ]
+      },
+      {
+        "name": "Silver Partner",
+        "price": "Contact for details",
+        "featured": false,
+        "perks": [
+          "Standard exhibition booth",
+          "Logo on website",
+          "Social media mention"
+        ]
+      },
+      {
+        "name": "Associate Partner",
+        "price": "Contact for details",
+        "featured": false,
+        "perks": [
+          "Logo on website",
+          "Event passes",
+          "Newsletter mention"
+        ]
+      }
+    ],
+    "formEyebrow": "BECOME A PARTNER",
+    "formTitle": "Partner With Film Expo India",
+    "formText": "Tell us about your brand and we will get back to you with packages and details.",
+    "formInterests": [
+      "Title Partner",
+      "Gold Partner",
+      "Silver Partner",
+      "Associate Partner",
+      "Media Partner",
+      "Custom Collaboration"
+    ],
+    "formButton": "Send Enquiry",
+    "formSuccess": "Thank you! Our partnerships team will contact you shortly.",
+    "brochureLabel": "Download Sponsorship Deck",
+    "brochureHref": "",
+    "buttonLabel": "View All Partners",
+    "buttonHref": "",
+    "items": [
+      {
+        "name": "Cinema Tech",
+        "logo": "/film-expo-art/partner-01.svg"
+      },
+      {
+        "name": "Camera Gear",
+        "logo": "/film-expo-art/partner-02.svg"
+      },
+      {
+        "name": "Studio Partner",
+        "logo": "/film-expo-art/partner-03.svg"
+      },
+      {
+        "name": "Media Partner",
+        "logo": "/film-expo-art/partner-04.svg"
+      },
+      {
+        "name": "Lighting Lab",
+        "logo": "/film-expo-art/partner-05.svg"
+      },
+      {
+        "name": "Post House",
+        "logo": "/film-expo-art/partner-06.svg"
+      },
+      {
+        "name": "Frame Works",
+        "logo": "/film-expo-art/partner-07.svg"
+      },
+      {
+        "name": "Pixel Union",
+        "logo": "/film-expo-art/partner-08.svg"
+      },
+      {
+        "name": "Sound Stage",
+        "logo": "/film-expo-art/partner-09.svg"
+      },
+      {
+        "name": "Film Craft",
+        "logo": "/film-expo-art/partner-10.svg"
+      },
+      {
+        "name": "Creator Hub",
+        "logo": "/film-expo-art/partner-11.svg"
+      },
+      {
+        "name": "Screen Guild",
+        "logo": "/film-expo-art/partner-12.svg"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "EVENT GALLERY",
+    "title": "Moments from Film Expo India",
+    "buttonLabel": "View Gallery",
+    "buttonHref": "/gallery",
+    "items": [
+      {
+        "alt": "Illustration of a film industry exhibition floor",
+        "image": "/film-expo-art/gallery-1.svg"
+      },
+      {
+        "alt": "Illustration of a cinema conference",
+        "image": "/film-expo-art/gallery-2.svg"
+      },
+      {
+        "alt": "Illustration of film industry networking",
+        "image": "/film-expo-art/gallery-3.svg"
+      },
+      {
+        "alt": "Illustration of film production equipment",
+        "image": "/film-expo-art/gallery-4.svg"
+      },
+      {
+        "alt": "Illustration of Film Expo India in Mumbai",
+        "image": "/film-expo-art/gallery-5.svg"
+      }
+    ]
+  },
+  "news": {
+    "eyebrow": "LATEST NEWS & ARTICLES",
+    "title": "Stay Updated with the Film Industry",
+    "buttonLabel": "View All News",
+    "buttonHref": "",
+    "items": [
+      {
+        "category": "INDUSTRY NEWS",
+        "title": "Trends Shaping the Future of Film Production",
+        "image": "/film-expo-art/news-1.svg",
+        "href": ""
+      },
+      {
+        "category": "EVENT UPDATES",
+        "title": "Highlights from the Previous Edition",
+        "image": "/film-expo-art/news-2.svg",
+        "href": ""
+      },
+      {
+        "category": "INSIGHTS",
+        "title": "India's Growing Role in the Global Entertainment Industry",
+        "image": "/film-expo-art/news-3.svg",
+        "href": ""
+      }
+    ]
+  },
+  "closing": {
+    "title": "Be a Part of India's Leading",
+    "highlight": "Film Industry Exhibition",
+    "button": "Register Now",
+    "buttonHref": "",
+    "image": "/film-expo-art/closing.svg"
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "CONNECTING THE GLOBAL FILM INDUSTRY",
+      "title": "FILM EXPO",
+      "highlight": "INDIA 2027",
+      "description": "BUSINESS  |  TECHNOLOGY  |  TALENT  |  COLLABORATION",
+      "primaryCta": "Register as Visitor",
+      "secondaryCta": "Join as Exhibitor",
+      "image": "/film-expo-art/hero-expo.svg",
+      "video": ""
+    },
+    "story": {
+      "eyebrow": "ABOUT US",
+      "title": "Film Expo India",
+      "paragraphs": [
+        "Film Expo India is a platform created to connect the global film and entertainment ecosystem. Filmmakers, production houses, technology providers, distributors, exhibitors and creative professionals come together under one roof to explore opportunities and showcase innovation.",
+        "The expo encourages collaboration, knowledge sharing and business networking through exhibitions, conferences, screenings, workshops and cultural showcases."
+      ],
+      "image": "/film-expo-art/production.svg",
+      "button": "Learn More About Us",
+      "profile": {
+        "name": "Vindu Dara Singh",
+        "role": "Indian Film Actor (Mentor)",
+        "image": "/film-expo-art/speaker-1.svg",
+        "quote": "A place for the people and ideas shaping the future of cinema."
+      }
+    },
+    "impact": {
+      "eyebrow": "ILLUSTRATIVE IMPACT — CONFIRM FIGURES BEFORE PUBLISHING",
+      "title": "A Platform Creating Real Opportunities",
+      "description": "Bring the film and entertainment industry together, create business opportunities, showcase innovation and build a stronger global network.",
+      "metrics": [
+        {
+          "value": "₹243 Cr",
+          "label": "Business impact generated",
+          "icon": "₹"
+        },
+        {
+          "value": "17,000 sq. m.",
+          "label": "Exhibition space across the venue",
+          "icon": "▧"
+        },
+        {
+          "value": "200+",
+          "label": "Exhibitors on the floor",
+          "icon": "♟"
+        },
+        {
+          "value": "35,000+",
+          "label": "Visitors through the gates",
+          "icon": "♧"
+        },
+        {
+          "value": "62",
+          "label": "Speakers across sessions and workshops",
+          "icon": "♫"
+        },
+        {
+          "value": "100+",
+          "label": "Celebrities in attendance",
+          "icon": "✦"
+        },
+        {
+          "value": "50+",
+          "label": "Startups showcased",
+          "icon": "↗"
+        },
+        {
+          "value": "35+",
+          "label": "Film screenings",
+          "icon": "▣"
+        },
+        {
+          "value": "20+",
+          "label": "Government bodies and associations",
+          "icon": "⌂"
+        },
+        {
+          "value": "25+",
+          "label": "AI, film and hackathon entries",
+          "icon": "♪"
+        }
+      ]
+    },
+    "events": {
+      "eyebrow": "DRAFT EVENT SCHEDULE — CONFIRM BEFORE PUBLISHING",
+      "title": "Where We Go Next",
+      "description": "Two editions in 2027 — Mumbai in March and Delhi in August. Mark your calendar and register your interest.",
+      "button": "View All Events",
+      "items": [
+        {
+          "season": "SEASON 2",
+          "badge": "NEXT UP",
+          "year": "2027",
+          "date": "12–14 March 2027",
+          "startDate": "2027-03-12",
+          "endDate": "2027-03-14",
+          "startTime": "10:00",
+          "endTime": "18:00",
+          "venue": "NESCO",
+          "hall": "HALL 3",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pin": "400013",
+          "image": "/film-expo-art/venue.svg",
+          "button": "Register Interest",
+          "href": ""
+        },
+        {
+          "season": "SEASON 3",
+          "badge": "",
+          "year": "2027",
+          "date": "27–29 August 2027",
+          "startDate": "2027-08-27",
+          "endDate": "2027-08-29",
+          "startTime": "10:00",
+          "endTime": "18:00",
+          "venue": "Bharat Mandapam",
+          "hall": "HALLS 2–4",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "pin": "110002",
+          "image": "/film-expo-art/exhibit.svg",
+          "button": "Register Interest",
+          "href": ""
+        }
+      ]
+    },
+    "gallery": {
+      "eyebrow": "GALLERY",
+      "title": "Moments From Our Journey",
+      "filters": [
+        "All",
+        "Exhibitions",
+        "Conferences",
+        "Networking",
+        "Screenings",
+        "Celebrities"
+      ],
+      "items": [
+        {
+          "category": "Exhibitions",
+          "alt": "Illustration of a film expo exhibition floor",
+          "image": "/film-expo-art/gallery-1.svg"
+        },
+        {
+          "category": "Conferences",
+          "alt": "Illustration of a cinema conference",
+          "image": "/film-expo-art/gallery-2.svg"
+        },
+        {
+          "category": "Networking",
+          "alt": "Illustration of film industry networking",
+          "image": "/film-expo-art/gallery-3.svg"
+        },
+        {
+          "category": "Screenings",
+          "alt": "Illustration of film production technology",
+          "image": "/film-expo-art/gallery-4.svg"
+        },
+        {
+          "category": "Celebrities",
+          "alt": "Illustration of Film Expo India in Mumbai",
+          "image": "/film-expo-art/gallery-5.svg"
+        }
+      ]
+    },
+    "closing": {
+      "title": "Be Part of the Future of Cinema",
+      "description": "Register as a visitor, exhibitor or partner and join the global film industry at Film Expo India.",
+      "button": "Contact Us",
+      "href": "",
+      "image": "/film-expo-art/closing.svg"
+    }
+  },
+  "conferenceProgramme": {
+    "programmeConfirmed": false,
+    "hero": {
+      "eyebrow": "SAMPLE CONFERENCE PROGRAMME",
+      "title": "Silver Screen",
+      "highlight": "Summit 2026",
+      "description": "Ideas  |  Innovation  |  Industry  |  Global Collaboration",
+      "dates": "26 – 30 August 2026",
+      "venue": "Bharat Mandapam, New Delhi",
+      "buttonLabel": "Download Schedule",
+      "buttonHref": "",
+      "image": "/film-expo-hero.png",
+      "video": "",
+      "sideQuote": "Powerful conversations for a stronger, more creative tomorrow."
+    },
+    "metrics": [
+      {
+        "value": "5",
+        "label": "Days",
+        "icon": "▦"
+      },
+      {
+        "value": "3",
+        "label": "Conference Tracks",
+        "icon": "▣"
+      },
+      {
+        "value": "50+",
+        "label": "Speakers",
+        "icon": "♟"
+      },
+      {
+        "value": "5000+",
+        "label": "Delegates",
+        "icon": "♧"
+      },
+      {
+        "value": "Live Q&A",
+        "label": "Networking",
+        "icon": "▤"
+      },
+      {
+        "value": "Industry",
+        "label": "Showcase",
+        "icon": "⌂"
+      }
+    ],
+    "schedule": {
+      "eyebrow": "EXPLORE THE CONFERENCES",
+      "title": "Conclave Schedule",
+      "description": "Five days of power-packed sessions across Conference A, Conference B and Conference C — featuring global leaders, industry experts and changemakers from the world of cinema.",
+      "downloadLabel": "Full Schedule (PDF)",
+      "downloadHref": "",
+      "days": [
+        {
+          "label": "Day 1",
+          "date": "26 Aug 2026",
+          "tracks": [
+            {
+              "title": "Conference A",
+              "subtitle": "Creative Economy & Global Trends",
+              "sessions": [
+                {
+                  "time": "10:00 AM – 11:00 AM",
+                  "title": "Opening Ceremony",
+                  "description": "Join us for the grand opening of Film Expo India 2026.",
+                  "speaker": "Featured Speaker 01",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-1.svg",
+                  "sessionImage": "/film-expo-art/conference.svg"
+                },
+                {
+                  "time": "11:30 AM – 12:30 PM",
+                  "title": "Women in Cinema: Changing Narratives",
+                  "description": "A conversation about new voices and stories shaping the screen.",
+                  "speaker": "Featured Speaker 02",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-2.svg",
+                  "sessionImage": "/film-expo-art/production.svg"
+                },
+                {
+                  "time": "02:00 PM – 03:00 PM",
+                  "title": "India as a Global Production Hub",
+                  "description": "Building international partnerships and production opportunities.",
+                  "speaker": "Featured Speaker 03",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-3.svg",
+                  "sessionImage": "/film-expo-art/venue.svg"
+                }
+              ]
+            },
+            {
+              "title": "Conference B",
+              "subtitle": "Technology, Innovation & Production",
+              "sessions": [
+                {
+                  "time": "11:00 AM – 12:00 PM",
+                  "title": "Next-Gen Filmmaking Technology",
+                  "description": "How new tools are transforming production from set to screen.",
+                  "speaker": "Featured Speaker 04",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-4.svg",
+                  "sessionImage": "/film-expo-art/production.svg"
+                },
+                {
+                  "time": "02:30 PM – 03:30 PM",
+                  "title": "The Business of OTT and Streaming",
+                  "description": "A practical look at the fast-changing streaming landscape.",
+                  "speaker": "Featured Speaker 05",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-5.svg",
+                  "sessionImage": "/film-expo-art/streaming.svg"
+                },
+                {
+                  "time": "04:00 PM – 05:00 PM",
+                  "title": "Building VFX and Animation Ecosystems",
+                  "description": "Growing creative technology and production talent in India.",
+                  "speaker": "Featured Speaker 06",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-3.svg",
+                  "sessionImage": "/film-expo-art/animation-gaming.svg"
+                }
+              ]
+            },
+            {
+              "title": "Conference C",
+              "subtitle": "Markets, Distribution & Collaboration",
+              "sessions": [
+                {
+                  "time": "10:30 AM – 11:30 AM",
+                  "title": "Global Co-Production Opportunities",
+                  "description": "Discover new routes to international collaboration.",
+                  "speaker": "Featured Speaker 07",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-2.svg",
+                  "sessionImage": "/film-expo-art/conference.svg"
+                },
+                {
+                  "time": "01:00 PM – 02:00 PM",
+                  "title": "Navigating International Film Markets",
+                  "description": "Strategies for bringing stories to audiences worldwide.",
+                  "speaker": "Featured Speaker 08",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-4.svg",
+                  "sessionImage": "/film-expo-art/venue.svg"
+                },
+                {
+                  "time": "03:30 PM – 04:30 PM",
+                  "title": "Sustainable and Inclusive Film Industry",
+                  "description": "Building a more sustainable and inclusive production ecosystem.",
+                  "speaker": "Featured Speaker 09",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-5.svg",
+                  "sessionImage": "/film-expo-art/production.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2",
+          "date": "27 Aug 2026",
+          "tracks": [
+            {
+              "title": "Conference A",
+              "subtitle": "Stories, Talent & Global Audiences",
+              "sessions": [
+                {
+                  "time": "10:00 AM – 11:00 AM",
+                  "title": "The New Language of Storytelling",
+                  "description": "How filmmakers are creating stories for audiences everywhere.",
+                  "speaker": "Featured Speaker 10",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-1.svg",
+                  "sessionImage": "/film-expo-art/conference.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3",
+          "date": "28 Aug 2026",
+          "tracks": [
+            {
+              "title": "Conference B",
+              "subtitle": "Production Technology & Innovation",
+              "sessions": [
+                {
+                  "time": "10:00 AM – 11:00 AM",
+                  "title": "The Future of Film Production",
+                  "description": "Explore production tools and workflows transforming the industry.",
+                  "speaker": "Featured Speaker 11",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-2.svg",
+                  "sessionImage": "/film-expo-art/production.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4",
+          "date": "29 Aug 2026",
+          "tracks": [
+            {
+              "title": "Conference C",
+              "subtitle": "Distribution, Markets & Partnerships",
+              "sessions": [
+                {
+                  "time": "10:00 AM – 11:00 AM",
+                  "title": "Taking Indian Stories to the World",
+                  "description": "Connect content with new markets, partners and audiences.",
+                  "speaker": "Featured Speaker 12",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-3.svg",
+                  "sessionImage": "/film-expo-art/venue.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5",
+          "date": "30 Aug 2026",
+          "tracks": [
+            {
+              "title": "Conference A",
+              "subtitle": "The Next Chapter of Cinema",
+              "sessions": [
+                {
+                  "time": "10:00 AM – 11:00 AM",
+                  "title": "Ideas to Impact: Closing Conversation",
+                  "description": "Industry leaders reflect on the ideas and collaborations ahead.",
+                  "speaker": "Featured Speaker 13",
+                  "role": "Sample speaker profile",
+                  "image": "/film-expo-art/speaker-4.svg",
+                  "sessionImage": "/film-expo-art/closing.svg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "promos": [
+      {
+        "title": "Inspiring Conversations for a Bigger Tomorrow",
+        "image": "/film-expo-art/conference.svg",
+        "buttonLabel": "Register as Visitor",
+        "href": ""
+      },
+      {
+        "title": "Network with global leaders, creators and innovators.",
+        "image": "/film-expo-art/gallery-3.svg",
+        "buttonLabel": "Start Networking",
+        "href": ""
+      },
+      {
+        "title": "Experience the Future of Cinema",
+        "image": "/film-expo-art/production.svg",
+        "features": [
+          "Live Sessions",
+          "Interactive Q&A",
+          "Exhibition Access",
+          "Networking Lounges",
+          "Meet Industry Icons"
+        ],
+        "buttonLabel": "Explore Exhibitors",
+        "href": "/exhibitors"
+      },
+      {
+        "title": "Be Part of India’s Largest Film Industry Conclave",
+        "image": "/film-expo-art/closing.svg",
+        "buttonLabel": "Visitor Registration",
+        "href": ""
+      }
+    ],
+    "closing": {
+      "title": "From Ideas to Impact",
+      "description": "Join thought leaders, changemakers and innovators shaping the next chapter of the global film industry.",
+      "buttonLabel": "Register Now",
+      "buttonHref": "",
+      "image": "/film-expo-art/closing.svg"
+    }
+  },
+  "footer": {
+    "description": "A global platform for filmmakers, exhibitors, technology providers, content creators, investors and the entire entertainment industry.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact Us",
+    "venue": "Bharat Mandapam",
+    "location": "New Delhi, India",
+    "email": "info@filmexpoindia.com",
+    "phone": "+91 12345 67890",
+    "subscribeTitle": "Subscribe to Updates",
+    "subscribeText": "Get the latest news, event updates and industry insights.",
+    "subscribePlaceholder": "Your email address",
+    "subscribeButtonLabel": "Subscribe",
+    "copyright": "© 2027 Film Expo India. All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "privacyHref": "/privacy",
+    "terms": "Terms & Conditions",
+    "termsHref": "/terms",
+    "refund": "Refund Policy",
+    "refundHref": "/refund",
+    "sitemap": "Sitemap",
+    "sitemapHref": "/sitemap.xml",
+    "socialLinks": [
+      {
+        "label": "Facebook",
+        "href": "https://facebook.com"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://youtube.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com"
+      }
+    ]
+  },
+  "contactPage": {
+    "hero": {
+      "eyebrow": "We would love to hear from you",
+      "title": "Contact",
+      "highlight": "Us",
+      "subtitle": "Let's Create a Stronger Film Industry Together",
+      "description": "We're here to answer your questions, provide information and help you be a part of Film Expo India.",
+      "breadcrumb": "Contact",
+      "homeLabel": "Go to Home",
+      "image": "/film-expo-art/hero-expo.svg",
+      "video": ""
+    },
+    "infoCards": [
+      {
+        "icon": "phone",
+        "title": "Contact Us",
+        "lines": [
+          "+91 8828827315",
+          "022 - 40155212"
+        ],
+        "href": "tel:+918828827315"
+      },
+      {
+        "icon": "map",
+        "title": "Office Address",
+        "lines": [
+          "Marya House, C-503, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053"
+        ],
+        "href": ""
+      },
+      {
+        "icon": "mail",
+        "title": "Email Us",
+        "lines": [
+          "info@filmexpoindia.com"
+        ],
+        "href": "mailto:info@filmexpoindia.com"
+      }
+    ],
+    "categoriesSection": {
+      "eyebrow": "Register",
+      "title": "Choose Your Category",
+      "highlight": "to Register",
+      "description": "Join the biggest platform for the film, media and entertainment industry."
+    },
+    "categories": [
+      {
+        "number": "01",
+        "title": "Film Division Exhibitor Registration",
+        "description": "Showcase your film projects, services and innovations to a global audience.",
+        "buttonLabel": "Register Now",
+        "buttonHref": "/exhibitors",
+        "image": "/film-expo-art/exhibit.svg"
+      },
+      {
+        "number": "02",
+        "title": "Visitors Registration",
+        "description": "Be a part of the ultimate film industry experience. Register as a visitor.",
+        "buttonLabel": "Register Now",
+        "buttonHref": "",
+        "image": "/film-expo-art/visit.svg"
+      },
+      {
+        "number": "03",
+        "title": "Screening Submissions",
+        "description": "Submit your films and be seen by industry professionals, distributors and audiences.",
+        "buttonLabel": "Submit Now",
+        "buttonHref": "",
+        "image": "/film-expo-art/film-submission.svg"
+      },
+      {
+        "number": "04",
+        "title": "Art & Design Exhibitor Registration",
+        "description": "Present your creative work and connect with buyers, curators and collaborators.",
+        "buttonLabel": "Register Now",
+        "buttonHref": "/exhibitors",
+        "image": "/film-expo-art/gallery-3.svg"
+      },
+      {
+        "number": "05",
+        "title": "Sponsorship Registration",
+        "description": "Partner with Film Expo India and gain unmatched brand visibility and networking opportunities.",
+        "buttonLabel": "Register Now",
+        "buttonHref": "",
+        "image": "/film-expo-art/sponsorship.svg"
+      },
+      {
+        "number": "06",
+        "title": "Reach Out With Your Questions",
+        "description": "We're listening! Get in touch with our team for any queries or assistance.",
+        "buttonLabel": "Contact Us",
+        "buttonHref": "",
+        "image": "/film-expo-art/conference.svg"
+      }
+    ],
+    "form": {
+      "eyebrow": "Send a message",
+      "title": "Have a question?",
+      "highlight": "Write to us",
+      "description": "Fill in the form and our team will get back to you shortly.",
+      "interests": [
+        "General Enquiry",
+        "Film Division Exhibitor",
+        "Visitor Registration",
+        "Screening Submission",
+        "Art & Design Exhibitor",
+        "Sponsorship"
+      ],
+      "buttonLabel": "Send Message",
+      "successMessage": "Thank you! Your message has been sent. We will contact you soon.",
+      "errorMessage": "Could not send your message. Please try again."
+    },
+    "quote": {
+      "text": "Redefining the film industry's hub — a one-stop destination for all your needs, delivering unmatched efficiency and endless opportunities.",
+      "buttonLabel": "Contact Us",
+      "buttonHref": "",
+      "image": "/film-expo-art/closing.svg"
+    }
+  },
+  "blogPage": {
+    "hero": {
+      "eyebrow": "FILM EXPO INDIA BLOG",
+      "title": "Insights from the World of",
+      "highlight": "Cinema",
+      "description": "News, ideas and expert perspectives on the business, technology and creativity shaping the film industry.",
+      "breadcrumb": "Blogs",
+      "image": "/film-expo-art/hero-expo.svg",
+      "video": ""
+    },
+    "featuredLabel": "FEATURED STORY",
+    "sections": {
+      "latestEyebrow": "LATEST ARTICLES",
+      "latestTitle": "Stories Worth",
+      "latestHighlight": "Reading"
+    },
+    "categories": [
+      "Film Marketing",
+      "Industry Insights",
+      "Technology",
+      "Exhibitions",
+      "Business Growth"
+    ],
+    "perPage": 6,
+    "readLabel": "Read Article",
+    "backLabel": "Back to all stories",
+    "relatedTitle": "More Stories",
+    "posts": [
+      {
+        "slug": "film-marketing-strategies-every-producer-should-know",
+        "title": "Film Marketing Strategies Every Producer Should Know",
+        "category": "Film Marketing",
+        "author": "Deepak Jaiswal",
+        "date": "17 August 2026",
+        "featured": true,
+        "excerpt": "Creating a strong film is only one part of the commercial equation. A well-planned marketing strategy can help your film reach the right audience, build buzz and maximize opportunities across theatrical, digital and international markets.",
+        "body": "Creating a strong film is only one part of the commercial equation. The producers who win are the ones who plan marketing from the first day of development.\n\nStart with your audience. Define who the film is for, where they spend time and what makes them care. Build the poster, trailer and social content around that single idea.\n\nUse film expos and festivals as launch pads. Meeting distributors, OTT buyers and press in one place can shorten months of outreach into a few days.\n\nFinally, measure everything. Track trailer views, wishlist numbers and press mentions so that every next release learns from the last.",
+        "image": "/film-expo-art/highlights.svg",
+        "video": ""
+      },
+      {
+        "slug": "benefits-of-visiting-a-film-expo-for-filmmakers",
+        "title": "10 Benefits of Visiting a Film Expo for Filmmakers: Why Networking Matters",
+        "category": "Industry Insights",
+        "author": "Deepak Jaiswal",
+        "date": "11 August 2026",
+        "featured": false,
+        "excerpt": "From meeting filmmakers to discovering new collaboration opportunities, film expos create real value for creators, producers and investors.",
+        "body": "A film expo puts the whole ecosystem under one roof: producers, equipment makers, studios, streaming buyers and new talent.\n\nThe biggest benefit is access. Conversations that would take months by email happen in minutes on the show floor.\n\nOther benefits include product discovery, hands-on demos, conference learning, hiring and funding conversations, and a clear picture of where the industry is heading.",
+        "image": "/film-expo-art/gallery-2.svg",
+        "video": ""
+      },
+      {
+        "slug": "top-business-opportunities-in-the-film-industry",
+        "title": "Top Business Opportunities You Can Discover in the Film Industry Today",
+        "category": "Technology",
+        "author": "Deepak Jaiswal",
+        "date": "30 July 2026",
+        "featured": false,
+        "excerpt": "The global film industry has evolved into one of the world's most dynamic business ecosystems, with opportunities across content, technology and distribution.",
+        "body": "Virtual production, AI-assisted post workflows, streaming originals and film tourism are opening new revenue lines for companies of every size.\n\nIndia in particular is becoming a global production hub, with growing demand for VFX, animation and localisation services.\n\nThe best way to spot these opportunities early is to attend industry events and talk directly to the people building them.",
+        "image": "/film-expo-art/streaming.svg",
+        "video": ""
+      },
+      {
+        "slug": "why-professionals-attend-film-industry-conferences",
+        "title": "Why Thousands of Industry Professionals Attend Film Industry Conferences Every Year",
+        "category": "Industry Insights",
+        "author": "Deepak Jaiswal",
+        "date": "30 July 2026",
+        "featured": false,
+        "excerpt": "International conferences are shaping the future of filmmaking with new technologies, creative partnerships and global collaboration.",
+        "body": "Conferences bring together directors, producers, technologists and investors to share what is working right now.\n\nSessions on technology, business and craft give attendees ideas they can apply immediately, while the corridors become the place where partnerships begin.",
+        "image": "/film-expo-art/conference.svg",
+        "video": ""
+      },
+      {
+        "slug": "who-should-visit-film-expo-india-visitor-guide",
+        "title": "Who Should Visit Film Expo India 2026? A Complete Visitor Guide",
+        "category": "Exhibitions",
+        "author": "Deepak Jaiswal",
+        "date": "28 July 2026",
+        "featured": false,
+        "excerpt": "From producers and directors to students and technology providers, Film Expo India offers something for everyone. Here's your complete guide to making the most of your visit.",
+        "body": "Film Expo India is built for producers, directors, cinematographers, studios, equipment brands, OTT platforms, students and anyone who loves cinema.\n\nPlan your day around the conference schedule, set aside time for the exhibition floor and book meetings in advance.\n\nWear comfortable shoes, carry business cards and keep your phone charged for scanning visitor passes.",
+        "image": "/film-expo-art/visit.svg",
+        "video": ""
+      },
+      {
+        "slug": "how-exhibiting-at-trade-shows-grows-your-business",
+        "title": "How Exhibiting at Film Industry Trade Shows Can Grow Your Business",
+        "category": "Business Growth",
+        "author": "Deepak Jaiswal",
+        "date": "28 July 2026",
+        "featured": false,
+        "excerpt": "Film industry trade shows provide a powerful platform to showcase your work, connect with distributors and explore new business opportunities.",
+        "body": "A booth gives you a stage in front of qualified buyers. Live demos, sample reels and clear offers convert far better than cold outreach.\n\nPrepare a simple pitch, capture every lead and follow up within a week while the conversation is still fresh.",
+        "image": "/film-expo-art/exhibit.svg",
+        "video": ""
+      }
+    ],
+    "closing": {
+      "title": "Explore the Film Industry",
+      "description": "Be a part of Film Expo India 2027 — meet industry leaders, discover new opportunities and shape the future of cinema.",
+      "buttonLabel": "Register Now",
+      "buttonHref": "",
+      "image": "/film-expo-art/closing.svg"
+    }
+  },
+  "galleryPage": {
+    "hero": {
+      "eyebrow": "FILM EXPO INDIA / VISUAL ARCHIVE",
+      "title": "Gallery",
+      "highlight": "In Motion",
+      "breadcrumb": "Gallery",
+      "image": "/film-expo-art/hero-expo.svg",
+      "video": ""
+    },
+    "sections": {
+      "stageEyebrow": "FEATURED MOMENTS",
+      "stageTitle": "Moments in the",
+      "stageHighlight": "Spotlight",
+      "browseEyebrow": "EXPLORE THE ARCHIVE",
+      "browseTitle": "Every Frame,",
+      "browseHighlight": "Every Story"
+    },
+    "intro": {
+      "eyebrow": "EVENT GALLERY",
+      "title": "A Visual Journey Through",
+      "highlight": "Film Expo India",
+      "description": "Moments, people and stories from every edition of Film Expo India. Relive the past, explore the present and glimpse the future of the film, media and entertainment industry."
+    },
+    "eras": [
+      {
+        "key": "all",
+        "label": "All",
+        "subtitle": "Every edition"
+      },
+      {
+        "key": "past",
+        "label": "Past",
+        "subtitle": "Where it began"
+      },
+      {
+        "key": "present",
+        "label": "Present",
+        "subtitle": "Happening now"
+      },
+      {
+        "key": "future",
+        "label": "Future",
+        "subtitle": "What's coming"
+      }
+    ],
+    "categories": [
+      "Awards",
+      "Exhibitions",
+      "Networking",
+      "Speakers",
+      "Conferences",
+      "Highlights"
+    ],
+    "items": [
+      {
+        "title": "Inaugural Lamp Lighting",
+        "category": "Highlights",
+        "era": "present",
+        "date": "26 Aug 2026",
+        "description": "Dignitaries light the ceremonial lamp to open Film Expo India 2026.",
+        "image": "/film-expo-art/gallery-5.svg"
+      },
+      {
+        "title": "Awards Ceremony",
+        "category": "Awards",
+        "era": "present",
+        "date": "26 Aug 2026",
+        "description": "Excellence in film, media and technology celebrated on the main stage.",
+        "image": "/film-expo-art/gallery-2.svg"
+      },
+      {
+        "title": "Exhibition Floor",
+        "category": "Exhibitions",
+        "era": "present",
+        "date": "26 Aug 2026",
+        "description": "Hundreds of exhibitors showcasing cameras, studios and streaming tech.",
+        "image": "/film-expo-art/exhibit.svg"
+      },
+      {
+        "title": "Keynote Session",
+        "category": "Speakers",
+        "era": "present",
+        "date": "26 Aug 2026",
+        "description": "Industry leaders share their vision for the next decade of cinema.",
+        "image": "/film-expo-art/speaker-1.svg"
+      },
+      {
+        "title": "Industry Networking",
+        "category": "Networking",
+        "era": "present",
+        "date": "27 Aug 2026",
+        "description": "Producers, investors and creators connecting over new collaborations.",
+        "image": "/film-expo-art/gallery-3.svg"
+      },
+      {
+        "title": "Conference Hall",
+        "category": "Conferences",
+        "era": "present",
+        "date": "27 Aug 2026",
+        "description": "A packed audience at the Silver Screen Summit.",
+        "image": "/film-expo-art/conference.svg"
+      },
+      {
+        "title": "Technology Showcase",
+        "category": "Exhibitions",
+        "era": "present",
+        "date": "27 Aug 2026",
+        "description": "Virtual production, LED volumes and next-gen post workflows.",
+        "image": "/film-expo-art/gallery-4.svg"
+      },
+      {
+        "title": "Panel Discussion",
+        "category": "Speakers",
+        "era": "present",
+        "date": "28 Aug 2026",
+        "description": "Creators and studios debate the future of storytelling.",
+        "image": "/film-expo-art/speaker-2.svg"
+      },
+      {
+        "title": "Dignitaries & Guests",
+        "category": "Highlights",
+        "era": "present",
+        "date": "29 Aug 2026",
+        "description": "A group moment with guests from across the global industry.",
+        "image": "/film-expo-art/venue.svg"
+      },
+      {
+        "title": "Opening Night 2025",
+        "category": "Highlights",
+        "era": "past",
+        "date": "12 Mar 2025",
+        "description": "The curtain-raiser of the previous edition.",
+        "image": "/film-expo-art/highlights.svg"
+      },
+      {
+        "title": "Best Film Awards 2025",
+        "category": "Awards",
+        "era": "past",
+        "date": "13 Mar 2025",
+        "description": "Winners honoured at the closing awards night.",
+        "image": "/film-expo-art/gallery-1.svg"
+      },
+      {
+        "title": "Production Pavilion 2025",
+        "category": "Exhibitions",
+        "era": "past",
+        "date": "13 Mar 2025",
+        "description": "Studios and equipment makers meet filmmakers.",
+        "image": "/film-expo-art/production.svg"
+      },
+      {
+        "title": "Speaker Circle 2025",
+        "category": "Speakers",
+        "era": "past",
+        "date": "14 Mar 2025",
+        "description": "Candid conversations with leading directors and producers.",
+        "image": "/film-expo-art/speaker-3.svg"
+      },
+      {
+        "title": "First Edition 2024",
+        "category": "Conferences",
+        "era": "past",
+        "date": "10 Mar 2024",
+        "description": "Where the Film Expo India story began.",
+        "image": "/film-expo-art/closing.svg"
+      },
+      {
+        "title": "Next Edition Preview",
+        "category": "Highlights",
+        "era": "future",
+        "date": "Aug 2027",
+        "description": "A first look at Film Expo India 2027 at Bharat Mandapam.",
+        "image": "/film-expo-art/visit.svg"
+      },
+      {
+        "title": "Virtual Production Zone",
+        "category": "Exhibitions",
+        "era": "future",
+        "date": "Aug 2027",
+        "description": "A dedicated zone for AI, XR and virtual production.",
+        "image": "/film-expo-art/streaming.svg"
+      },
+      {
+        "title": "Global Film Summit",
+        "category": "Conferences",
+        "era": "future",
+        "date": "Aug 2027",
+        "description": "An expanded international programme with global delegations.",
+        "image": "/film-expo-art/sponsorship.svg"
+      },
+      {
+        "title": "Creators Meetup",
+        "category": "Networking",
+        "era": "future",
+        "date": "Aug 2027",
+        "description": "A new creator-economy meetup for filmmakers and storytellers.",
+        "image": "/film-expo-art/animation-gaming.svg"
+      }
+    ],
+    "closing": {
+      "title": "Be Part of the Next Edition",
+      "description": "Join industry leaders, creators and innovators at Film Expo India 2027.",
+      "buttonLabel": "Visitor Registration",
+      "buttonHref": "",
+      "image": "/film-expo-art/closing.svg"
+    }
+  },
+  "ticketing": {
+    "eyebrow": "PASSES & TICKETS",
+    "title": "Book Your Pass",
+    "highlight": "Film Expo India 2027",
+    "description": "Choose the pass that fits your visit. Every pass includes access to the exhibition floor; paid passes add conference sessions and networking.",
+    "ctaLabel": "Buy Pass",
+    "formTitle": "Your details",
+    "nameLabel": "Full name",
+    "emailLabel": "Email address",
+    "phoneLabel": "Phone number",
+    "quantityLabel": "Quantity",
+    "stateLabel": "State",
+    "cityLabel": "City",
+    "summaryLabel": "Order summary",
+    "payButton": "Proceed to payment",
+    "successTitle": "Pass booked!",
+    "successText": "Your payment is confirmed. A booking receipt will be sent to your email.",
+    "closedNote": "Paid ticket booking is not open yet. Please register your interest below.",
+    "note": "Prices below are placeholders until the organizer confirms them. Paid bookings stay disabled until Razorpay keys are configured.",
+    "tiers": [
+      {
+        "id": "visitor",
+        "name": "Visitor Pass",
+        "price": 999,
+        "audience": "General attendees",
+        "description": "One-day access to the full exhibition floor.",
+        "perks": [
+          "Access to all exhibitor stalls",
+          "Entry to open keynotes",
+          "Digital event guide"
+        ],
+        "actualPrice": 1499,
+        "offerLabel": "Diwali Offer",
+        "offerStart": "2026-10-20",
+        "offerEnd": "2026-11-10",
+        "showOffer": true
+      },
+      {
+        "id": "delegate",
+        "name": "Delegate Pass",
+        "price": 4999,
+        "audience": "Industry professionals",
+        "description": "Full three-day access including conferences and networking.",
+        "perks": [
+          "All three exhibition days",
+          "Conference and summit sessions",
+          "Networking mixers",
+          "Priority seating"
+        ],
+        "actualPrice": 6999,
+        "offerLabel": "Diwali Offer",
+        "offerStart": "2026-10-20",
+        "offerEnd": "2026-11-10",
+        "showOffer": true
+      },
+      {
+        "id": "student",
+        "name": "Student Pass",
+        "price": 499,
+        "audience": "Students with valid ID",
+        "description": "Discounted access for film and media students.",
+        "perks": [
+          "One-day exhibition access",
+          "Open keynote entry",
+          "Valid student ID required at the gate"
+        ],
+        "actualPrice": 799,
+        "offerLabel": "Diwali Offer",
+        "offerStart": "2026-10-20",
+        "offerEnd": "2026-11-10",
+        "showOffer": true
+      }
+    ],
+    "locations": [
+      { "state": "Delhi", "cities": ["New Delhi"] },
+      { "state": "Maharashtra", "cities": ["Mumbai", "Pune", "Navi Mumbai", "Nagpur"] },
+      { "state": "Karnataka", "cities": ["Bengaluru"] },
+      { "state": "Telangana", "cities": ["Hyderabad"] },
+      { "state": "Tamil Nadu", "cities": ["Chennai", "Coimbatore"] },
+      { "state": "Gujarat", "cities": ["Ahmedabad", "Gandhinagar", "Surat"] },
+      { "state": "Rajasthan", "cities": ["Jaipur"] },
+      { "state": "Uttar Pradesh", "cities": ["Noida", "Greater Noida", "Lucknow"] },
+      { "state": "West Bengal", "cities": ["Kolkata"] },
+      { "state": "Punjab", "cities": ["Ludhiana", "Mohali"] }
+    ]
+  },
+  "legalPages": {
+    "eyebrow": "FILM EXPO INDIA",
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last updated: 22 October 2026",
+      "intro": "This policy describes how Film Expo India handles information submitted through this website. Please review it before publishing and update it to reflect the event organizer's legal identity and actual data practices.",
+      "sections": [
+        { "heading": "Information we collect", "body": "We may collect your email address when you register for event information or subscribe to updates. Enquiry forms may also collect your name, phone number, company, area of interest and message. Email verification codes are short-lived and are not saved as database records." },
+        { "heading": "How we use information", "body": "We use enquiry and registration details to respond to requests and provide event information. We send promotional email updates only when you separately opt in to the newsletter. We do not sell personal information." },
+        { "heading": "Storage and service providers", "body": "Submitted details are stored in the website's database and may be processed by providers needed to operate the website, deliver verification email or measure website usage. Access should be limited to authorized staff. The organizer should document its production hosting, analytics and email providers here before launch." },
+        { "heading": "Retention and your choices", "body": "We retain information only as long as reasonably needed to respond to your request, manage event communications, meet legal obligations and resolve disputes. You may ask to access, correct or delete your information, or withdraw newsletter consent, by contacting info@filmexpoindia.com." },
+        { "heading": "Security and children", "body": "We use reasonable safeguards to protect information, but no online service can guarantee absolute security. This website is intended for professional event audiences and is not directed to children." },
+        { "heading": "Changes and contact", "body": "We may update this policy when our practices change. For privacy questions or requests, contact info@filmexpoindia.com." }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "updated": "Last updated: 22 October 2026",
+      "intro": "These terms apply to use of the Film Expo India website. They are a publication-ready starting point, not legal advice; the event organizer should have them reviewed and completed before launch.",
+      "sections": [
+        { "heading": "Website information", "body": "Website content is provided for general information about Film Expo India. Event dates, venues, speakers, programmes, partners, ticketing and participation details may change. Confirm important details with the organizer before making travel or business decisions." },
+        { "heading": "Registration and enquiries", "body": "Submitting a registration request or enquiry does not by itself confirm admission, a ticket, a place in a programme or an exhibitor booking. Any such confirmation and applicable payment terms will be provided separately by the organizer." },
+        { "heading": "Acceptable use and intellectual property", "body": "Do not misuse the website, attempt unauthorized access, interfere with its operation or submit unlawful or misleading material. Unless otherwise stated, website text, branding and original materials belong to their respective rights holders. Do not copy or reuse them without permission." },
+        { "heading": "Third-party services and availability", "body": "The website may link to third-party services that Film Expo India does not control. The website is provided on an availability basis; to the extent permitted by applicable law, the organizer is not responsible for interruptions or losses caused by reliance on information that is incomplete or out of date." },
+        { "heading": "Changes and contact", "body": "These terms may be updated as the event and website change. For questions, contact info@filmexpoindia.com." }
+      ]
+    },
+    "refund": {
+      "title": "Refund & Cancellation Policy",
+      "updated": "Last updated: 23 October 2026",
+      "intro": "This policy explains how cancellations, refunds and changes are handled for registrations, exhibitor bookings and sponsorships associated with Film Expo India. Paid ticket sales, when they open, will follow the refund terms displayed at the time of purchase.",
+      "sections": [
+        { "heading": "Registrations and expressions of interest", "body": "Submitting a registration or an expression of interest through this website is free. Because no payment is collected at this stage, there is nothing to refund. You may withdraw your interest at any time by contacting us." },
+        { "heading": "Exhibitor bookings and sponsorships", "body": "Exhibitor space, sponsorship packages and delegate passes are confirmed through a separate agreement and invoice. Cancellation terms, deadlines and any applicable refunds will be stated in that agreement. Where a written agreement does not specify cancellation terms, requests made at least 30 days before the event may be eligible for a partial refund of amounts already paid, less costs already incurred by the organizer." },
+        { "heading": "Tickets and passes", "body": "When paid ticket sales open, the refund window, processing fees and cancellation deadlines will be shown on the checkout page and in the booking confirmation before payment is made. Approved refunds will be processed to the original payment method within 7–10 working days." },
+        { "heading": "Event changes or cancellation", "body": "Event dates, venue or programme may change for reasons beyond our control. If the event is cancelled and not rescheduled, fees already paid for that edition will be refunded in full. Where an equivalent rescheduled edition takes place, amounts already paid may instead be carried forward to the new dates at the attendee's or exhibitor's choice." },
+        { "heading": "How to request", "body": "Send cancellation or refund requests to info@filmexpoindia.com with your booking reference. Requests are handled in the order they are received. This policy is a publication-ready starting point, not legal advice; the organizer should have it reviewed and completed before paid tickets go on sale." }
+      ]
+    }
+  }
+}

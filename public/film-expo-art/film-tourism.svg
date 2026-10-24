@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182c44"/><stop offset="1" stop-color="#07141f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#4e9eb4" stop-opacity=".62"/><stop offset="1" stop-color="#4e9eb4" stop-opacity="0"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f0a950"/><stop offset="1" stop-color="#f0a950" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4e9eb4" stop-opacity=".52"/><stop offset="1" stop-color="#4e9eb4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".055"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<ellipse cx="710.4" cy="147.20000000000002" rx="297.6" ry="230.39999999999998" fill="url(#glow)"/>
+<rect width="960" height="640" fill="url(#grid)"/>
+<path d="M0 492.8L480 390.4L960 467.2V640H0Z" fill="#07111a"/>
+<path d="M0 524.8L480 448L960 518.4000000000001" stroke="#4e9eb4" stroke-opacity=".38" stroke-width="2"/>
+<path d="M0 371L146 230L224 315L371 155L477 285L580 196L765 365V500H0Z" fill="#24495a"/><path d="M0 410L165 305L289 381L432 240L590 366L755 275L960 417V520H0Z" fill="#152f40"/><path d="M608 208H801V415H608Z" fill="#d08a49"/><path d="M586 208L705 133L824 208Z" fill="#f0b56c"/><path d="M650 252H684V293H650ZM719 252H753V293H719ZM650 323H684V365H650ZM719 323H753V365H719Z" fill="#0e2638"/><circle cx="175" cy="146" r="53" fill="#eea951" opacity=".72"/><path d="M0 480H960" stroke="#edae64" stroke-opacity=".48" stroke-width="4"/>
+<rect width="960" height="640" fill="url(#warm)" opacity=".075"/>
+<rect width="960" height="640" fill="url(#fade)"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020c14" stop-opacity=".08"/><stop offset=".61" stop-color="#020c14" stop-opacity="0"/><stop offset="1" stop-color="#020c14" stop-opacity=".76"/></linearGradient></defs>
+<g opacity=".77"><rect x="32" y="32" width="24" height="3" rx="1.5" fill="#f0a950"/><text x="68" y="39" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">FILM TOURISM AND LOCATIONS</text></g>
+
+</svg>

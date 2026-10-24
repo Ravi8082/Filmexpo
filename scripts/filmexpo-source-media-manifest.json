@@ -1,0 +1,671 @@
+{
+  "sourceUrl": "https://filmexpoindia.com/",
+  "gallerySourceUrl": "https://filmexpoindia.com/gallery-2/",
+  "officialVideoChannel": "https://www.youtube.com/@FilmExpoIndia",
+  "capturedAt": "2026-10-22",
+  "hero": {
+    "name": "Film Expo India 2026",
+    "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-01-1920x800-1-1.jpg"
+  },
+  "mentor": {
+    "name": "Vindu Dara Singh",
+    "role": "Indian Film Actor (Mentor)",
+    "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/Vindu-Dara-Singh.png"
+  },
+  "partners": [
+    {
+      "name": "Incredible India",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/Incredible-India-Logo-English-scaled.png"
+    },
+    {
+      "name": "SEPC",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/SEPC.jpeg"
+    },
+    {
+      "name": "PB",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/PB-Logo-R.png"
+    },
+    {
+      "name": "DPIIT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/DPIIT.jpeg"
+    },
+    {
+      "name": "Delhi Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/Logo-Delhi-Tourism.png"
+    },
+    {
+      "name": "Maharashtra Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/MT-Final-Logo-R1-scaled.png"
+    },
+    {
+      "name": "MPT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/MPT-logo-color.png"
+    },
+    {
+      "name": "Telangana Film Development Corporation",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/TGFDC.jpg"
+    },
+    {
+      "name": "Bihar Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/bihar.png"
+    },
+    {
+      "name": "Meghalaya Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/MeghTourism-1.png"
+    },
+    {
+      "name": "Hello Meghalaya Tourism",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/HM-Logo-Layer-File-01-scaled.png"
+    },
+    {
+      "name": "IGNCA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/IGNCA.jpg"
+    },
+    {
+      "name": "National School of Drama",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/image-12.jpg"
+    },
+    {
+      "name": "Global Trade and Technology Partner",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/GTTCI-LOGO.png"
+    },
+    {
+      "name": "Vishal Chain Jewellers",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/VISHAL-JEWELLERS-VCJ-LOGO-01.jpg"
+    },
+    {
+      "name": "Sony",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/sony-logo_.jpg"
+    },
+    {
+      "name": "Canon",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/Canon.jpg"
+    },
+    {
+      "name": "CINTAA / CAWT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/cintaa.jpeg"
+    },
+    {
+      "name": "Marwah Studios",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/01/marwah-studios-logo-HR-copy-2048x867.jpg"
+    },
+    {
+      "name": "AAFT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/01/aaft_logo_new-2048x523.png"
+    },
+    {
+      "name": "ICMEI",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/01/ICMEI-LOGO-WITH-NAME.jpg"
+    },
+    {
+      "name": "Prasad",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Prasad.jpeg"
+    },
+    {
+      "name": "Stage",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/stage.png"
+    },
+    {
+      "name": "Artisty",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/artisty.jpg"
+    },
+    {
+      "name": "Oulac",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/oulac.jpeg"
+    },
+    {
+      "name": "Global",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/global-logo.png"
+    },
+    {
+      "name": "Whistling Woods International",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/WWI-Logo-Black-1-scaled.jpeg"
+    },
+    {
+      "name": "Bluesky",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/bluesky.jpeg"
+    },
+    {
+      "name": "C&C",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/cc.jpg"
+    },
+    {
+      "name": "Horseman FX",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Horseman-FX-Logo-Trademark-Registered1-scaled.png"
+    },
+    {
+      "name": "Roopesh Rai Productions",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/02/Roopesh-rai.jpeg"
+    },
+    {
+      "name": "WIFPA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/WIFPA.jpeg"
+    },
+    {
+      "name": "ECOA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo02_ECOA.jpg.jpeg"
+    },
+    {
+      "name": "Yuva Entertainments",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo02_Yuva-Entertainments-1.jpg"
+    },
+    {
+      "name": "Aap Media",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Aap-Media.jpeg"
+    },
+    {
+      "name": "India News 24/7",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/indianews.jpeg"
+    },
+    {
+      "name": "D-Wits",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_d-wits.jpg"
+    },
+    {
+      "name": "Citara",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_citara.jpg"
+    },
+    {
+      "name": "CPT",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/CPT.jpg"
+    },
+    {
+      "name": "Ideabaaz",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Ideabaaz_Dark@4x-scaled.png"
+    },
+    {
+      "name": "DJI",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/DJI.jpg"
+    },
+    {
+      "name": "MPA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/MPA.jpg"
+    },
+    {
+      "name": "Pragatya Group of Companies",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_pragatya-group-of-companies.jpg"
+    },
+    {
+      "name": "Khushi",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Khushi-2025-New-Logo-black.jpg.jpeg"
+    },
+    {
+      "name": "Nizzz Perfumes",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/04/Logo03_Nizzz-Perfumes.jpg.jpeg"
+    },
+    {
+      "name": "Reel-9Studio",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/logo-1.png"
+    },
+    {
+      "name": "Soham Rockstar",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/05/Logo04_Soham-Rockstar.jpg.jpeg"
+    },
+    {
+      "name": "Dara Studio",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_dara-studio.jpg"
+    },
+    {
+      "name": "Filmibeat",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Filmi-Logo-1.png"
+    },
+    {
+      "name": "Oneindia",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/06/Oneindia-Logo.png"
+    },
+    {
+      "name": "FTPA",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/FTPA-logo.jpeg"
+    },
+    {
+      "name": "Graphiti",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/Graphiti_Logo_Hi-Rez.jpg-scaled.jpeg"
+    },
+    {
+      "name": "Creative First",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_creative-first-www.creative-first.film_.jpg"
+    },
+    {
+      "name": "RSFI",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/07/RSFI_LOGO.jpg.jpeg"
+    },
+    {
+      "name": "The Travel Professionals",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_the-travel-professionals-serving-you-with-excellence.jpg"
+    },
+    {
+      "name": "Creative Channel Media",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_creative-channel-media.jpg"
+    },
+    {
+      "name": "Sanskar",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/Logo_sanskar.jpg"
+    },
+    {
+      "name": "Incepto Studio",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/incepto-studio-1380-x-944-px.png"
+    },
+    {
+      "name": "The School for Actors",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/08/the-school-for-actor.png"
+    },
+    {
+      "name": "Organized by Exhobuzz",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/exhobuzz-kuchbhee-and-vindu-dara-singh-logo-04.png"
+    },
+    {
+      "name": "Co-organized by ITPO",
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/03/ITPO_LOGO_C_18920-scaled.png"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/original_photo_clear_blur_fixed-2.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-12-at-12.31.26.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider21.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-01-1920x800-1-1.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.26.40.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/da329123-4325-4942-96b5-2082cd8947c8.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.57.03.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.11.41.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.12.55.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.13.10.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.14.04.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.57.44.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/0be1d636-a15d-4b99-9377-d51ff8937290.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-18.17.48.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-5.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.48.32-PM.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest1.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.48.33-PM.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/2W4A0462.JPG-scaled.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.29.38.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.29.40.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/150A6933-scaled.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.29.40-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/Vindu-Dara-Singh.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-18.18.49-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/Gautam-Shah.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.49.19.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/guests1.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/150A9272.JPG-scaled.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-18.18.53.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-15.47.50.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-6.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-18.18.51.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider6.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider24.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-4.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_16_52-PM.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.46.17.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider18.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider5.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-15.41.27.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/guest-3.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider16.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.36.23-PM.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-12.59.19-PM.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_28_32-PM.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.52.43-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider20.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-16-1080x1350-1.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-17.52.43.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/fei-hero-15-1080x1350-1.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.45.56.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.47.49.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.46.10-PM-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider13.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider23.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.35.46-PM.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-12-at-10.46.36-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider17.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-17.21.55.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/b9aa0829-87f4-4780-93d6-9bc6a77471d4.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-15.47.54.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-15.37.49.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.45.56-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/a1c28fa1-aae4-4124-bef3-d71e6aeb2677.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider22.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider19.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-1.46.10-PM.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider15.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.46.46.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-17.21.53.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/slider12.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-15.47.48.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.47.14.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_24_24-PM.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/download.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_20_54-PM.png"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.48.10.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.48.29.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.48.53.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.16.16.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.19.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.19-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.20.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.20-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.20-2.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/199A5426-scaled.jpg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.17.45.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.18.08.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-11.49.47.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.18.09.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.18.09-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.19.50.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.20.03.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.21.21.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.21.40.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.22.01.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.31.26.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.31.48.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.32.39.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.32.39-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.33.21.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.34.33.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.40.37.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.41.09.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.10.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.29.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.39.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.42.59.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.53.29.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.43.18.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.44.26.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.44.52.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.45.07.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.45.37.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.52.14.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.52.42.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.52.43.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.53.28.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.06.56.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.08.01.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.10.42.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.14.03-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-16.15.04.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-12.53.52.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.52.25.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.52.24-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.52.24.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.48.41.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.42.34.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.42.17.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.42.16.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.20-1.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.20.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.19-5.jpeg"
+    },
+    {
+      "url": "https://filmexpoindia.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-13.41.19-4.jpeg"
+    }
+  ]
+}

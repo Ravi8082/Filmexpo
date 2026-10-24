@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b3640"/><stop offset="1" stop-color="#07141f"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#55a8b1" stop-opacity=".62"/><stop offset="1" stop-color="#55a8b1" stop-opacity="0"/></linearGradient>
+<linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f3b653"/><stop offset="1" stop-color="#f3b653" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#55a8b1" stop-opacity=".52"/><stop offset="1" stop-color="#55a8b1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#fff" stroke-opacity=".055"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="960" height="640" fill="url(#bg)"/>
+<ellipse cx="710.4" cy="147.20000000000002" rx="297.6" ry="230.39999999999998" fill="url(#glow)"/>
+<rect width="960" height="640" fill="url(#grid)"/>
+<path d="M0 492.8L480 390.4L960 467.2V640H0Z" fill="#07111a"/>
+<path d="M0 524.8L480 448L960 518.4000000000001" stroke="#55a8b1" stroke-opacity=".38" stroke-width="2"/>
+<rect x="77" y="74" width="806" height="490" rx="12" fill="#ffffff" fill-opacity=".055"/>
+<circle cx="700" cy="197" r="147" fill="url(#glow)"/>
+<path d="M0 443L251 258L427 381L616 251L960 475V640H0Z" fill="#0b1721" opacity=".83"/>
+<path d="M265 587Q281 378 479 365Q680 375 702 587Z" fill="#253a4a"/>
+<path d="M404 364L482 491L558 365L535 344H431Z" fill="#f3b653" opacity=".74"/>
+<path d="M444 319H519V402Q481 440 444 402Z" fill="#965f48"/>
+<ellipse cx="481" cy="269" rx="95" ry="116" fill="#965f48"/>
+<path d="M385 276Q354 136 484 132Q613 129 576 275L552 213L516 205L438 226L403 212Z" fill="#201b19"/>
+<path d="M404 280Q390 223 435 207M557 274Q565 228 538 209" stroke="#201b19" stroke-width="18" stroke-linecap="round"/>
+<path d="M440 283H458M504 283H523" stroke="#3b2520" stroke-width="7" stroke-linecap="round"/>
+<path d="M459 330Q481 341 502 329" stroke="#743e37" stroke-width="5" stroke-linecap="round"/>
+<path d="M472 290L464 317L480 319" stroke="#995f4b" stroke-width="4" stroke-linejoin="round"/>
+<path d="M442 415L480 474L519 415" stroke="#55a8b1" stroke-opacity=".86" stroke-width="4"/>
+<path d="M366 591H598" stroke="#f3b653" stroke-opacity=".65" stroke-width="4"/>
+
+<rect width="960" height="640" fill="url(#warm)" opacity=".075"/>
+<rect width="960" height="640" fill="url(#fade)"/>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020c14" stop-opacity=".08"/><stop offset=".61" stop-color="#020c14" stop-opacity="0"/><stop offset="1" stop-color="#020c14" stop-opacity=".76"/></linearGradient></defs>
+<g opacity=".77"><rect x="32" y="32" width="24" height="3" rx="1.5" fill="#f3b653"/><text x="68" y="39" fill="#f3f4ef" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">FILM EXPO INDIA · SPEAKER 3</text></g>
+<g opacity=".72"><circle cx="95" cy="518" r="42" fill="url(#glow)"/><circle cx="862" cy="122" r="6" fill="#f3b653"/><circle cx="828" cy="151" r="3" fill="#fff"/></g>
+</svg>
